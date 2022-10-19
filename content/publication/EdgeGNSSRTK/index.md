@@ -1,6 +1,7 @@
 ---
 title: "Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion"
-
+tags:
+  - 2021
 
 date: "2022-03-01T00:00:00Z"
 doi: ""
