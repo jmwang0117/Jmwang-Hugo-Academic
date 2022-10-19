@@ -52,5 +52,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+More publications are available via  [filtering Junming Wang's publications](./publication/).
 {{% /callout %}}
