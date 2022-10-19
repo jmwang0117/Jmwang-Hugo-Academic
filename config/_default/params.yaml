@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Apogee
-  theme_night: Apogee
-  font: Georgia
+  theme_day: Ocean
+  theme_night: Ocean
+  font: 'Georgia'
   font_size: L
 
 # SEO
