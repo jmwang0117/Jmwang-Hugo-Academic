@@ -20,7 +20,7 @@ content:
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
   filter_button:
-      - name: All Projects
+      - name: All paperss
         tag: '*'
       - name: 2022
         tag: 2022
