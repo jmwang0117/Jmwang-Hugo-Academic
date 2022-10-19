@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: Apogee
+  theme_night: Apogee
+  font: Georgia
   font_size: L
 
 # SEO
