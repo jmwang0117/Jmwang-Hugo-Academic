@@ -27,10 +27,6 @@ content:
   filter_button:
     - name: All Projects
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
     - name: Robotics
       tag: Robotics
     - name: Computer Vision
