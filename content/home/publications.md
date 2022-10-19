@@ -52,5 +52,5 @@ design:
 ---
 
 {{% callout note %}}
-More publications are available via filtering [Junming Wang's publications](./publication/) or via  [Google Scholar]([./publication/](https://scholar.google.com.hk/citations?user=yq72b6IAAAAJ&hl=zh-CN).
+More publications are available via filtering [Junming Wang's publications](./publication/) or via [Google Scholar](https://scholar.google.com.hk/citations?user=yq72b6IAAAAJ&hl=zh-CN).
 {{% /callout %}}
