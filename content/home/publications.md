@@ -52,5 +52,5 @@ design:
 ---
 
 {{% callout note %}}
-More publications are available via  [filtering Junming Wang's publications](./publication/).
+More publications are available via filtering [Junming Wang's publications](./publication/).
 {{% /callout %}}
