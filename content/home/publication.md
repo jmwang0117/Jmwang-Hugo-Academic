@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: publication
+  page_type: projects
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,18 +27,15 @@ content:
   filter_button:
     - name: Five representative papers
       tag: '*'
-    - name: CVPR
+    - name: 2022
       tag: Deep Learning
-    - name: ECCV
+    - name: 2021
       tag: Demo
-    - name: IJCAI
+    - name: 2020
       tag: Robotics
-    - name: Mobicom
+    - name: 2019
       tag: Computer Vision
-    - name: TRO
-      tag: Edge Computing
-    - name: RAL
-      tag: Computer Graphic
+
     
 
 design:
