@@ -12,25 +12,28 @@ main:
     weight: 11
   - name: People
     url: '#people'
-    weight: 12
+    weight: 15
   - name: Experience
     url: '#experience'
-    weight: 13
+    weight: 12
   - name: Posts
     url: '#posts'
-    weight: 20
+    weight: 16
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 14
   - name: Talks
     url: '#talks'
-    weight: 40
+    weight: 18
   - name: Publications
-    url: '#featured'
-    weight: 50
+    url: '#Selected Publications'
+    weight: 13
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 19
+  - name: Accomplishments
+    url: '#accomplishments'
+    weight: 17
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
