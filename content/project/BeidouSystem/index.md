@@ -1,5 +1,5 @@
 ---
-title: 📊 Landslide Monitoring
+title: 📊Landslide Monitoring
 summary: Beidou-based high-precision geological deformation monitoring system.
 tags:
 - Edge Computing
