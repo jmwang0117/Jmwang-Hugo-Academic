@@ -1,7 +1,6 @@
 ---
 title: "Application of BDS/GPS Fusion Relative Positioning in Slope Deformation Monitoring"
-tags:
-  - 2021
+
 
 date: "2020-10-01T00:00:00Z"
 doi: ""
@@ -29,6 +28,7 @@ summary: <b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo*, Lin Mu, Hamzah
 
 
 tags:
+  - 2022
 #- Source Themes
 featured: false
 
