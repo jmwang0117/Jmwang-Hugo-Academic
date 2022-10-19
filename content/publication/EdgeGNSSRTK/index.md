@@ -2,7 +2,7 @@
 title: "Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion"
 
 
-date: "2022-03-01T00:00:00Z"
+date: "2023-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
