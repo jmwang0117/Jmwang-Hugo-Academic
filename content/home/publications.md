@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 30
 
 title: Selected Publications
 subtitle: ''
@@ -16,27 +16,11 @@ subtitle: ''
 content:
   # Page type to display. E.g. project.
   page_type: publication
+
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: Five representative papers
-      tag: '*'
-    - name: 2022
-      tag: 2022
-    - name: 2021
-      tag: 2021
-    - name: 2020
-      tag: 2020
-    - name: 2019
-      tag: 2019
-
-    
+ 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -47,8 +31,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 1
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
