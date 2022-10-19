@@ -8,7 +8,7 @@ design:
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
         <li>
-					[2022/09/01] <span style="font-weight: bold;"> 👋New Journey !!! </span> Today I start my MPhil at the University of Hong Kong (HKU) ! 
+					[2022/09/01] 👋<span style="font-weight: bold;">New Journey !!!</span> Today I start my MPhil at the University of Hong Kong (HKU) ! 
 			  </li>
 			  <li>
           [2022/07/04]  📚I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my <span style="font-weight: bold;">Computer Graphics</span> journey !
