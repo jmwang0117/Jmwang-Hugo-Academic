@@ -8,19 +8,19 @@ design:
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
         <li>
-					[2022/09/01] <span style="font-weight: bold;"> 👉 New Journey !!! </span> Today I start my MPhil at the University of Hong Kong (HKU) ! 
+					[2022/09/01] <span style="font-weight: bold;"> 👋 New Journey !!! </span> Today I start my MPhil at the University of Hong Kong (HKU) ! 
 			  </li>
 			  <li>
-          [2022/07/04]  I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my <span style="font-weight: bold;">Computer Graphics</span> journey !
+          [2022/07/04]  📚 I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my <span style="font-weight: bold;">Computer Graphics</span> journey !
 			  </li>
 			  <li>
-					[2022/06/29]  I completed the <span style="font-weight: bold;">ML Fundamentals</span> section of the OxML School !
+					[2022/06/29]  👉 I completed the <span style="font-weight: bold;">ML Fundamentals</span> section of the OxML School !
 			  </li>
 			  <li>
-			  		[2022/06/17]  I graduated from Lanzhou Jiaotong University(LZJTU)!
+			  		[2022/06/17] ❤️ I graduated from Lanzhou Jiaotong University(LZJTU)!❤️
 			  </li>
         <li>
-			[2021/06/13]  Won the <a href="https://tuanwei.lzjtu.edu.cn/info/1043/2997.htm">Innovative Person Title</a> <span style="font-weight: bold;">(TOP 1%)</span>
+			[2021/06/13]  🐦 Won the <a href="https://tuanwei.lzjtu.edu.cn/info/1043/2997.htm">Innovative Person Title</a> <span style="font-weight: bold;">(TOP 1%)</span>
 			  </li>
 			  <li>
 			  		[2020/07/31]  A patent for invention is issued <span style="font-weight: bold;">(CN111476813A)</span>
