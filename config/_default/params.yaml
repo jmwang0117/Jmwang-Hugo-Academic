@@ -8,7 +8,7 @@
 appearance:
   theme_day: Ocean
   theme_night: Ocean
-  font: Georgia
+  font: Classic
   font_size: L
 
 # SEO
