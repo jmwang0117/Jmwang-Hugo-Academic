@@ -22,8 +22,8 @@ abstract: "Aiming at the problem that GNSS-RTK technology cannot effectively mon
 
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang,</b> Yi Shi*</br> 
-         <b style="font-size:120%;color:#008080">[EITCE 2022] </b> 
-         <b style="color:#3F51B5"> The 6th International Conference on Electronic Information Technology and Computer Engineering</b><b style="color:red"> (EI)</b> 
+         <b style="font-size:120%;color:#008080">[WASA 2023] </b> 
+         <b style="color:#3F51B5"> International Conference on Wireless Algorithms, Systems, and Applications</b><b style="color:red"> (CCF-C,EI)</b> 
 
 
 
