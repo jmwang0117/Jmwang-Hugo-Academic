@@ -14,8 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: projects
-
+  page_type: publication
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
@@ -28,13 +27,13 @@ content:
     - name: Five representative papers
       tag: '*'
     - name: 2022
-      tag: Deep Learning
+      tag: 2022
     - name: 2021
-      tag: Demo
+      tag: 2021
     - name: 2020
-      tag: Robotics
+      tag: 2020
     - name: 2019
-      tag: Computer Vision
+      tag: 2019
 
     
 
