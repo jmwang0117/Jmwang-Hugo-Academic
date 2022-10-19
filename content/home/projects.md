@@ -25,16 +25,25 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: All Projects
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
     - name: Other
       tag: Demo
+    - name: Robotics
+      tag: Robotics
+    - name: Computer Vision
+      tag: Computer Vision
+    - name: Edge Computing
+      tag: Edge Computing
+    - name: Computer Graphic
+      tag: Computer Graphic
+    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
