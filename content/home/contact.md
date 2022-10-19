@@ -24,7 +24,7 @@ content:
   directions: HKU Jockey Club Student Village III, 9 Lung Wah St, Kennedy Town, Hong Kong
   office_hours:
     - 'Monday 09:00 to 22:00'
-    - 'Wednesday 09:00 to 22:00'
+    - 'Saturday 09:00 to 22:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
