@@ -20,20 +20,19 @@ content:
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
   filter_button:
-    - name: All Projects
+    - name: All Papers
       tag: '*'
+    - name: 2024
+      tag: 2024
+    - name: 2023
+      tag: 2023
     - name: 2022
       tag: 2022
     - name: 2021
       tag: 2021
-    - name: Robotics
-      tag: Robotics
-    - name: Computer Vision
-      tag: Computer Vision
-    - name: Edge Computing
-      tag: Edge Computing
-    - name: Computer Graphic
-      tag: Computer Graphic
+    - name: 2020
+      tag: 2020
+
     
 
 
