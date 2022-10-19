@@ -1,8 +1,8 @@
 ---
-title: 🤖SLAM Robotics
+title: 🤖SLAM Robot
 summary: <b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> 
- Junbo Guo, <b style="color:#E08040">Junming Wang,</b> Lin Mu, Liu Meng, Zicheng Wang  </br>
- **(<b style="color:#3F51B5">provincial Level-</b> ¥ 4000CNY)**</br>
+ Junbo Guo, <b style="color:#E08040">Junming Wang,</b> Lin Mu, Meng Liu, Zicheng Wang  </br>
+ **(<b style="color:#3F51B5">Provincial Level-</b> ¥ 4000CNY)**</br>
 tags:
 - Robotics
 date: "2016-04-27T00:00:00Z"
