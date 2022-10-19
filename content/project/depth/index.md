@@ -1,5 +1,5 @@
 ---
-title: ⏳Monocular depth estimation
+title: ⏳ Monocular depth estimation
 summary: <b style="color:#008080">Undergraduate Final Year Project</b></br> 
  <b style="color:#E08040">Junming Wang,</b> Supervisor - *Prof.Song Wang*  </br>
  
