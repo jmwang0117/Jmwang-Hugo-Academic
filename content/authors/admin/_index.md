@@ -83,7 +83,7 @@ highlight_name: true
 - **Robot Perception :** NeRF/3D Vision; SLAM/Point Cloud; Depth Estimation; 
 - **Robot Learning Systems :** Multi-Robot Systems; Distributed Robotic Learning;
 
-👉 Before joining HKU, his research focused on: **Cyber-physical Systems**; **Edge Computing**;
+👉 Before joining HKU, his research focused on: **Cyber-physical Systems**; **Efficient Deep Learning** and its applications in Edge Device;
 
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:Georgia">
