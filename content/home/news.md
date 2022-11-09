@@ -8,7 +8,7 @@ design:
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
         <li>
-          [2022/09/30] I had a wonderful time at <a src="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.
+          [2022/09/30] I had a wonderful time at <a href="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.
 			  </li>
         <li>
 					[2022/09/01] 👋<span style="font-weight: bold;">New Journey !!!</span> Today I start my MPhil at the University of Hong Kong (HKU) ! 
