@@ -34,7 +34,7 @@ education:
       institution: Lanzhou Jiaotong University(LZJTU)
       year: 2018.09-2022.06
     - course: Oxford Machine Learning Summer School
-      institution: AI for Global Goals & The University of Oxford
+      institution: The University of Oxford & AI for Global Goals
       year: 2022.06-2022.08
 
 # Social/Academic Networking
