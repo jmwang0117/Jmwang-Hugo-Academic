@@ -23,7 +23,7 @@ abstract: "Given the difficulties faced in real-time monitoring of slope deforma
 # Summary. An optional shortened abstract.
 summary: Lin Mu, Jiuyuan Huo*, CHunxiao Yu, Hamzah Murad Mohammed Al-Neshmi, <b style="color:#E08040">Junming Wang,</b> </br> 
          <b style="font-size:110%;color:#008080">[2023] </b> 
-         <b style="color:#3F51B5"> Advances in Space Research</b><b style="color:red;"> (SCI | IF：2.611)</b> ----> *Under View*
+         <b style="color:#3F51B5"> Advances in Space Research</b><b style="color:red;"> (SCI | IF：2.611)</b> 
 
 
 
