@@ -1,5 +1,5 @@
 ---
-title: "An efficient change detection method for SAR images based on extreme learning machineg"
+title: "An efficient change detection method for SAR images based on extreme learning machine"
 
 
 date: "2020-10-01T00:00:00Z"
