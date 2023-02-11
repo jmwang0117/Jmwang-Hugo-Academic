@@ -21,7 +21,7 @@ publication_short: In *EITCE 2022*
 abstract: "Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high- frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control core, uses GNSS-RTK technology to complete deformation data collection, and combines NB-IoT to achieve data transmission and cloud storage. In order to further improve the monitoring accuracy, real-time gross error detection and high-frequency noise removal method based on the improved Raida criterion(3σ) and Butterworth low-pass filtering is proposed, combined with edge computing devices to complete real-time data processing, and reduce the pressure of cloud computing. The experimental results show that the system's data transmission is reliable and efficient. After gross error elimination and noise processing, real-time deformation monitoring of 10 mm in the horizontal and elevation directions can be realized; at the same time, the monitoring error of the GNSS combined system is smaller than that of the GPS single system."
 
 # Summary. An optional shortened abstract.
-summary: <b style="color:#E08040">Junming Wang,</b> Yi Shi*</br> 
+summary: <b style="color:#E08040">Junming Wang,</b> Yi Shi</br> 
          
          <b style="color:#3F51B5"> arXiv, 2023</b>
 
@@ -36,7 +36,7 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 
-url_pdf: 'https://drive.google.com/file/d/1mV1NmTRuDXgBHrwISdM2hBlwMpmSYQHU/view?usp=sharing'
+url_pdf: 'https://arxiv.org/abs/2301.05977'
 #url_code: 'files/ColorTracking_code.zip'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
