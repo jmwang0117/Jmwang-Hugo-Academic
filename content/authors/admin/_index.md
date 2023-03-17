@@ -18,7 +18,7 @@ bio: My research interests focus on robotic vision and distributed robotic syste
 
 # Interests to show in About widget
 interests:
-  - 3D Vision (NeRF)
+  - Embodied AI
   - Distributed Robot System
   - SLAM & Point Cloud
   - Edge Computing
@@ -34,7 +34,7 @@ education:
       institution: Lanzhou Jiaotong University(LZJTU)
       year: 2018.09-2022.06
     - course: Oxford Machine Learning Summer School
-      institution: The University of Oxford & AI for Global Goals
+      institution: The University of Oxford
       year: 2022.06-2022.08
 
 # Social/Academic Networking
