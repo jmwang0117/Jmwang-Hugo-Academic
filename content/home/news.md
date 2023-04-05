@@ -14,7 +14,7 @@ design:
           [2022/09/30] I had a wonderful time at <a href="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.
 			  </li>
         <li>
-					[2022/09/01] 👋<span style="font-weight: bold;">New Journey !!!</span> Today I start my MPhil at the University of Hong Kong (HKU) ! 
+					[2022/09/01] 👋<span style="font-weight: bold;">New Journey !!!</span> Today I start my MPhil at <b>the University of Hong Kong (HKU) </b>! 
 			  </li>
 			  <li>
           [2022/07/04]  📚I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my <span style="font-weight: bold;">Computer Graphics</span> journey !
