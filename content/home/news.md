@@ -9,8 +9,7 @@ design:
 		  <ul>
         <li>
           [2023/04/06] Our project won the <b>National Second Prize</b> in <a href="http://www.news.cn/info/rdzt/ipv6ds/index.html">the first IPv6 technology application innovation competition.</a>
-			  </li>
-        
+			  </li>        
         <li>
           [2022/09/30] I had a wonderful time at <a href="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.
 			  </li>
