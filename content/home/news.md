@@ -20,7 +20,8 @@ design:
 			  </li>
         
         <li>
-					[2022/08/01]  👉I attended the <a href="https://www.oxfordml.school/">Oxford Machine Learning Summer School</a> , and I'd like to applaud <a href="https://www.ox.ac.uk/">the University of Oxford </a> and the outstanding professors for their inspiring speeches.
+					[2022/08/01] 👉I attended the <a href="https://www.oxfordml.school/"> Oxford Machine Learning Summer School </a> , and I'd like to applaud
+          <a href="https://www.ox.ac.uk/">the University of Oxford </a> and the outstanding professors for their inspiring speeches.
 			  </li>
         
 			  <li>
