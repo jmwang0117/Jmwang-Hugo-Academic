@@ -43,8 +43,9 @@ table th:nth-of-type(4) {
 | 2021-08  | Tsung-Dao Lee Scholarship | ¥5000 (TOP 1%)  |   China    |
 | 2019 & 2020  | Individual Scholarship | ¥15000 (TOP 1%) |    China     |
 | 2021-12  | The Second Prize Scholarship | ¥1000 (TOP 5%) |    China     |
-| 2020-09  | Mathematical Contest In Modeling | National Second Prize |    China     |
 | 2021-01  | Mathematical Contest In Modeling | Meritorious Winners   |   America    |
+| 2020-09  | Mathematical Contest In Modeling | National Second Prize |    China     |
+| 2023-04  | IPv6 technology application innovation competition | National Second Prize |    China     |
 | 2021-08  | (Huawei Cup) College Student Internet of Things Design Competition | National Second Prize   |  China    |
 | 2021-08  | China National College Student "Innovation, Originality and Entrepreneurship" Challenge | National Second Prize   |  China    |
 | 2021-09  | (Bochuang Cup) Embedded Artificial Intelligence Design Competition | National Second Prize   |  China    |
