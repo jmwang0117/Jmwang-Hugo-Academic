@@ -20,7 +20,7 @@ design:
           [2022/07/04]  📚I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my <span style="font-weight: bold;">Computer Graphics</span> journey !
 			  </li>
 			  <li>
-					[2022/06/29]  👉I completed the <span style="font-weight: bold;">ML Fundamentals</span> section of the OxML School !
+					[2022/06/29]  👉I attended the <a href="https://www.oxfordml.school/">Oxford Machine Learning Summer School</a> , and I'd like to applaud <a href="https://www.ox.ac.uk/">the University of Oxford </a> and the outstanding professors for their inspiring speeches.
 			  </li>
 			  <li>
 			  		[2022/06/17] ❤️I graduated from Lanzhou Jiaotong University(LZJTU)!
