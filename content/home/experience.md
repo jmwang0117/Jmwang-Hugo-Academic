@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Teaching Assistant
+    company: The University of Hong Kong
+    company_url: 'https://msccs.cs.hku.hk/public/courses/2022/COMP7503A/'
+    company_logo: HKU
+    location: Hong Kong SAR
+    date_start: '2022-09-01'
+    date_end: '2022-12-01'
+
   - title: Research Intern
     company: Institute of Automation，Chinese Academy of Sciences
     company_url: 'http://english.ia.cas.cn/'
