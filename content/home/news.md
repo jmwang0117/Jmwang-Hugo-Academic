@@ -14,7 +14,7 @@ design:
           [2022/09/30] I had a wonderful time at <a href="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.
 			  </li>        
         <li>
-					[2022/09/01] 👋<span style="font-weight: bold;">New Journey !!!</span> Today I started my Master of Philosophy (MPhil) program at <b>the University of Hong Kong (HKU) </b>! 
+					[2022/09/01] 👋Today I started my <span style="font-weight: bold;">Master of Philosophy (MPhil)</span> program at <b>the University of Hong Kong (HKU) </b>! 
 			  </li>
          <li>
 					[2022/08/01] 👉I attended the <a href="https://www.oxfordml.school/"> Oxford Machine Learning Summer School </a> , and I'd like to applaud
