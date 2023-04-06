@@ -8,13 +8,13 @@ design:
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
         <li>
-          [2023/04/06] Our project won the <b>National Second Prize</b> in <a href="http://www.news.cn/info/rdzt/ipv6ds/index.html">the first IPv6 technology application innovation competition.</a>
+          [2023/04/06] Our project won the <b>National Second Prize</b> in <a href="http://www.news.cn/info/rdzt/ipv6ds/index.html">The First IPv6 Technology Application Innovation Competition.</a>
 			  </li>        
         <li>
           [2022/09/30] I had a wonderful time at <a href="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.
 			  </li>        
         <li>
-					[2022/09/01] 👋<span style="font-weight: bold;">New Journey !!!</span> Today I start my MPhil at <b>the University of Hong Kong (HKU) </b>! 
+					[2022/09/01] 👋<span style="font-weight: bold;">New Journey !!!</span> Today I started my Master of Philosophy (MPhil) program at <b>the University of Hong Kong (HKU) </b>! 
 			  </li>
          <li>
 					[2022/08/01] 👉I attended the <a href="https://www.oxfordml.school/"> Oxford Machine Learning Summer School </a> , and I'd like to applaud
