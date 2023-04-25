@@ -29,7 +29,7 @@ education:
   courses:
     - course: MPhil in Computer Science and Technology
       institution: The University of Hong Kong(HKU)
-      year: 2022.09-2024.06
+      year: 2022.09-2024.09
     - course: BEng in Computer Science and Technology
       institution: Lanzhou Jiaotong University(LZJTU)
       year: 2018.09-2022.06
@@ -79,9 +79,10 @@ highlight_name: true
 ---
 **Junming Wang** is currently an M.Phil. student in Computer Science at the [University of Hong Kong (HKU)](https://www.hku.hk/). He is a member of the **HKU Systems Software Lab** in the Department of Computer Science, advised by [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). Junming Wang received his B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), China in 2022.</br>
 
-His research interests are in the areas of **Embodied AI**, **3D Computer Vision**, **Neural Rendering** and **Distributed Robotic Systems & Networks**. Specifically, the following two aspects:</br>
+His research interests are in the areas of **Embodied AI**, **Robotic Systems & Networks**, **3D Computer Vision** and **Neural Rendering**. Recently, he is very interested in **AIGC for Robotic**. Specifically, the following two aspects:</br>
 - **Robot Perception :** NeRF/3D Vision; SLAM/Point Cloud; Depth Estimation; 
 - **Robot Learning Systems :** Multi-Robot Systems; Distributed Robotic Learning;
+- **AIGC for Robotic:** ChatGPT for Robot; Edge-Cloud Generative AI in Mobile Networks;
 
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:Georgia">
