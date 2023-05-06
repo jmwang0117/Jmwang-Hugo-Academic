@@ -12,7 +12,7 @@ publishDate: "2023-04-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *the 6th IEEE International Workshop on Advances in Artificial Intelligence & Machine Learning*
@@ -35,7 +35,7 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 
-url_pdf: 'https://arxiv.org/abs/2301.05977'
+#url_pdf: 'https://arxiv.org/abs/2301.05977'
 #url_code: 'files/ColorTracking_code.zip'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
