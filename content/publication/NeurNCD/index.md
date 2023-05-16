@@ -35,8 +35,8 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 
-#url_pdf: 'https://arxiv.org/abs/2301.05977'
-#url_code: 'files/ColorTracking_code.zip'
+url_pdf: 'https://drive.google.com/file/d/19k8SAIkWgUP2W65hUVEWpg4MFGy2IQVV/view?usp=sharing'
+url_code: 'https://github.com/jmwang0117/NeurNCD'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
 #url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
