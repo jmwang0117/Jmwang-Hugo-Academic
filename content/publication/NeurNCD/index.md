@@ -22,7 +22,7 @@ abstract: "Discovering novel classes in open-world settings is crucial for real-
 
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang</b>, Wenbo Chen, Chi Zhang*, Heming Cui, Zhaoxiang Zhang</br> 
-         <b style="color:#3F51B5"> Arvix, 2023</b> 
+         <b style="color:#3F51B5"> arXiv, 2023</b> 
 
 
 
