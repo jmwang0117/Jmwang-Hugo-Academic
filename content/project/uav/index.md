@@ -1,5 +1,5 @@
 ---
-title: 🤖 Text-Based Control for UAVs - An Accessible and Precise Alternative to Traditional Control Methods
+title: 🤖 Enhancing UAV Control - A Text-Based Approach for Precision and Accessibility
 summary: <b style="color:#008080">The University of Hong Kong Project</b></br> 
  <b style="color:#E08040">Junming Wang,</b> Supervisor - *Prof.Heming Cui*  </br>
  
