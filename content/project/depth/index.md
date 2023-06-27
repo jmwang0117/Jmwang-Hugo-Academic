@@ -11,7 +11,7 @@ date: "2022-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-
+url_video: 'https://drive.google.com/file/d/1vJjF6xwiPW7VbAZZVYZ4S6TTLtbcAFoV/view?usp=sharing'
 url_slides: 'https://drive.google.com/file/d/12gzT7Gkw6DHhwf2LLzj5EWipf_j8sqXM/view?usp=sharing'
 
 ---
