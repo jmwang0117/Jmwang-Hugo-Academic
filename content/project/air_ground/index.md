@@ -1,7 +1,7 @@
 ---
 title: 🤖 Multi-modal Ground-Air Robot
 summary: <b style="color:#008080">The University of Hong Kong Project</b></br> 
- <b style="color:#E08040">ROG Team,</b> Supervisor - *Prof.Heming Cui*  </br>
+ <b style="color:#E08040">Junming Wang,</b> Supervisor - *Prof.Heming Cui*  </br>
  
 
 tags:
