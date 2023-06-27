@@ -1,5 +1,5 @@
 ---
-title: 🤖 Text Recognition Control Drone
+title: 🤖 Text-Based Control for UAVs - An Accessible and Precise Alternative to Traditional Control Methods
 summary: <b style="color:#008080">The University of Hong Kong Project</b></br> 
  <b style="color:#E08040">Junming Wang,</b> Supervisor - *Prof.Heming Cui*  </br>
  
