@@ -34,20 +34,25 @@ design:
   <div class="col-12 col-md-12 col-lg-12">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">experience</h5> 
-        <div class="timeline">
-          <div class="timeline-container">
-            <div class="timeline-end">
-              <p class="timeline-date">2019 & 2020</p>
-            </div>
-            <div class="timeline-content">
-              <h5 class="timeline-title">Individual Scholarship</h5>
-              <p class="timeline-text">¥15000 (TOP 1%)</p>
-              <p class="timeline-text">China</p>
-            </div>
-          </div>
-          <!-- 省略其他时间轴... -->
-        </div>
+        <h5 class="card-title text-center font-weight-bold">Scholarship</h5>
+        <ul>
+          <li>
+            <p class="font-weight-bold">The Stars of Self-improvement of Chinese College Students Scholarship</p> 
+            <p><b>¥2000 (TOP 1%)</b></p>  
+          </li>
+          <li>
+            <p class="font-weight-bold">Tsung-Dao Lee Scholarship</p>
+            <p><b>¥5000 (TOP 1%)</b></p>  
+          </li>
+          <li>
+            <p class="font-weight-bold">Individual Scholarship</p>
+            <p><b>¥15000 (TOP 1%)</b></p>  
+          </li>
+          <li>
+            <p class="font-weight-bold">The Second Prize Scholarship</p>
+            <p><b>¥1000 (TOP 5%)</b></p>  
+          </li>
+        </ul>
       </div>
     </div>
   </div>
