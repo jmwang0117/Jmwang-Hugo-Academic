@@ -15,7 +15,7 @@ design:
   <div class="col-12 col-md-12 col-lg-12">
     <div class="card">
       <div class="card-body">
-        <h1 class="card-title text-center font-weight-bold">Scholarship</h1>
+        <h2 class="card-title text-center font-weight-bold">Scholarship</h2>
         <ul>
           <li>
             <p class="font-weight-bold">The Stars of Self-improvement of Chinese College Students Scholarship</p> 
