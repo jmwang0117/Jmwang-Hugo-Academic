@@ -29,7 +29,7 @@ module:
 ############################
 ## ADVANCED
 ############################
-
+dataDir: "data" 
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
