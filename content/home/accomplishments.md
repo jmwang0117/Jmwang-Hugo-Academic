@@ -18,8 +18,8 @@ design:
         <h2 class="card-title text-center font-weight-bold">Scholarship</h2>
         <ul>
           <li>
-            <p class="font-weight-bold">The Stars of Self-improvement of Chinese College Students Scholarship | ¥2000 (TOP 1%)</p> 
-           
+            <p class="font-weight-bold">The Stars of Self-improvement of Chinese College Students Scholarship</p> 
+           <p><b>¥2000 (TOP 1%)</b></p>  
           </li>
           <li>
             <p class="font-weight-bold">Tsung-Dao Lee Scholarship</p>
