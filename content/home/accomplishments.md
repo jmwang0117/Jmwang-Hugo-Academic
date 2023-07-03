@@ -28,5 +28,27 @@ design:
       </div>
     </div>
   </div>
-  <!-- 省略其他卡片... -->
+</div>
+
+<div class="row">
+  <div class="col-12 col-md-12 col-lg-12">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">experience</h5> 
+        <div class="timeline">
+          <div class="timeline-container">
+            <div class="timeline-end">
+              <p class="timeline-date">2019 & 2020</p>
+            </div>
+            <div class="timeline-content">
+              <h5 class="timeline-title">Individual Scholarship</h5>
+              <p class="timeline-text">¥15000 (TOP 1%)</p>
+              <p class="timeline-text">China</p>
+            </div>
+          </div>
+          <!-- 省略其他时间轴... -->
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
