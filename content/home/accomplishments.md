@@ -44,13 +44,13 @@ design:
       <h2 class="card-title text-center font-weight-bold">Competition</h2>
       <ol>
         <li>
-          <p>2023-04&nbsp;&nbsp;</p>
+          
           <p class="font-weight-bold">2023-04&nbsp;&nbsp; IPv6 technology application innovation competition</p>   
           <p><b><i style="color: red;">National Second Prize - China</i></b></p>  
         </li>
         <li>   
-          <p>2021-08&nbsp;&nbsp;</p>  
-          <p class="font-weight-bold">(Huawei Cup) College Student Internet of Things Design Competition</p>   
+         
+          <p class="font-weight-bold">2021-08&nbsp;&nbsp; (Huawei Cup) College Student Internet of Things Design Competition</p>   
           <p><b><i style="color: red;">National Second Prize - China</i></b></p>  
         </li>
       </ol>
