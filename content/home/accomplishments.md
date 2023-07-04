@@ -18,26 +18,27 @@ design:
         <h2 class="card-title text-center font-weight-bold">Scholarship</h2>
         <ul>
           <li>
-            <p class="font-weight-bold">The Stars of Self-improvement of Chinese College Students Scholarship (2022-03)</p> 
-           <p><b>¥2000 (TOP 1%)</b></p>  
+            <p class="font-weight-bold">2022-03&nbsp;&nbsp;The Stars of Self-improvement of Chinese College Students Scholarship</p>
+            <p><b>¥2000 (TOP 1%)</b></p>
           </li>
           <li>
-            <p class="font-weight-bold">Tsung-Dao Lee Scholarship (2021-08)</p>
-            <p><b>¥5000 (TOP 1%)</b></p>  
+            <p class="font-weight-bold">2021-08&nbsp;&nbsp;Tsung-Dao Lee Scholarship</p>
+            <p><b>¥5000 (TOP 1%)</b></p>
           </li>
           <li>
-            <p class="font-weight-bold">Individual Scholarship (2019 and 2020)</p>
-            <p><b>¥15000 (TOP 1%)</b></p>  
+            <p class="font-weight-bold">2019 and 2020&nbsp;&nbsp;Individual Scholarship</p>
+            <p><b>¥15000 (TOP 1%)</b></p>
           </li>
           <li>
-            <p class="font-weight-bold">The Second Prize Scholarship (2021-12)</p>
-            <p><b>¥1000 (TOP 5%)</b></p>  
+            <p class="font-weight-bold">2021-12&nbsp;&nbsp;The Second Prize Scholarship</p>
+            <p><b>¥1000 (TOP 5%)</b></p>
           </li>
         </ul>
       </div>
     </div>
   </div>
 </div>
+
 <div class="col-12 col-md-12 col-lg-12">
   <div class="card">
     <div class="card-body">
