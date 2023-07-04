@@ -11,6 +11,14 @@ design:
 
 
 
+<style>
+  .red-italic {
+    color: red;
+    font-style: italic;
+    font-weight: normal;
+  }
+</style>
+
 <div class="row">
   <div class="col-12 col-md-12 col-lg-12">
     <div class="card">
@@ -19,25 +27,26 @@ design:
         <ul>
           <li>
             <p class="font-weight-bold">2022-03&nbsp;&nbsp;The Stars of Self-improvement of Chinese College Students Scholarship</p>
-            <p><b>¥2000 (TOP 1%)</b></p>
+            <p class="red-italic">¥2000 (TOP 1%)</p>
           </li>
           <li>
             <p class="font-weight-bold">2021-08&nbsp;&nbsp;Tsung-Dao Lee Scholarship</p>
-            <p><b>¥5000 (TOP 1%)</b></p>
+            <p class="red-italic">¥5000 (TOP 1%)</p>
           </li>
           <li>
             <p class="font-weight-bold">2019 and 2020&nbsp;&nbsp;Individual Scholarship</p>
-            <p><b>¥15000 (TOP 1%)</b></p>
+            <p class="red-italic">¥15000 (TOP 1%)</p>
           </li>
           <li>
             <p class="font-weight-bold">2021-12&nbsp;&nbsp;The Second Prize Scholarship</p>
-            <p><b>¥1000 (TOP 5%)</b></p>
+            <p class="red-italic">¥1000 (TOP 5%)</p>
           </li>
         </ul>
       </div>
     </div>
   </div>
 </div>
+
 
 <div class="col-12 col-md-12 col-lg-12">
   <div class="card">
