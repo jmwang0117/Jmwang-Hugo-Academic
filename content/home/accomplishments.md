@@ -47,7 +47,7 @@ design:
           <p>2023-04</p>&nbsp;&nbsp;
           <p class="font-weight-bold">IPv6 technology application innovation competition</p>   
           <p><b><i style="color: red;">National Second Prize - China</i></b></p>  
-          <p>China</p>
+         
         </li>
         <li>   
           <p>2021-08</p>>&nbsp;&nbsp;  
