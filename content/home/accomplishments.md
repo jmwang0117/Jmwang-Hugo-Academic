@@ -67,9 +67,9 @@ design:
   </div>
   <div class="card mb-3">
     <div class="card-body">
-      <h5 class="card-title font-weight-bold" style="font-family: script;">(Huawei Cup) College Student Internet of Things Design Competition2021-08</h5>   
-      <p><i style="color: red;">National Second Prize</i></p>  
-      <p>China</p>
+      <h5 class="card-title font-weight-bold" >(Huawei Cup) College Student Internet of Things Design Competition</h5> （2021-08）  
+      <p><i style="color: red;">National Second Prize - China</i></p>  
+      
     </div>
   </div>
 </div>
