@@ -40,7 +40,26 @@ design:
 </div>
 <style>
   ol {
-    list-style-type: circle;
+    list-style-type: none;
+    counter-reset: my-counter;
+    padding-left: 0;
+  }
+
+  ol li {
+    counter-increment: my-counter;
+    margin-bottom: 10px;
+  }
+
+  ol li::before {
+    content: counter(my-counter);
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #000;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 10px;
   }
 </style>
 
