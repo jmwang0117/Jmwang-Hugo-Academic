@@ -58,22 +58,22 @@ design:
     </div>
   </div>
   <div class="col-md-6">
-    <div class="card mb-3">
-      <div class="card-body">
-        <h5 class="card-title font-weight-bold">IPv6 technology application innovation competition</h5>
-        <p>2023-04</p>
-        <p><b>National Second Prize</b></p>
-        <p>China</p>
-      </div>
+  <div class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title font-weight-bold" style="font-family: script;">IPv6 technology application innovation competition2023-04</h5>  
+      <p><i style="color: red;">National Second Prize</i></p>  
+      <p>China</p>
     </div>
-    <div class="card mb-3">
-      <div class="card-body">
-        <h5 class="card-title font-weight-bold">(Huawei Cup) College Student Internet of Things Design Competition</h5> 
-        <p>2021-08</p>
-        <p><b>National Second Prize</b></p>
-        <p>China</p>
-      </div>
+  </div>
+  <div class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title font-weight-bold" style="font-family: script;">(Huawei Cup) College Student Internet of Things Design Competition2021-08</h5>   
+      <p><i style="color: red;">National Second Prize</i></p>  
+      <p>China</p>
     </div>
+  </div>
+</div>
+
   </div>
   <div class="col-md-6">
     <!-- 省略其他卡片... -->
