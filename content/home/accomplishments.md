@@ -38,6 +38,12 @@ design:
     </div>
   </div>
 </div>
+<style>
+  ol {
+    list-style-type: circle;
+  }
+</style>
+
 <div class="col-12 col-md-12 col-lg-12">
   <div class="card">
     <div class="card-body">
@@ -55,6 +61,7 @@ design:
     </div>
   </div>
 </div>
+
 
 
 
