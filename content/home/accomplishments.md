@@ -38,48 +38,24 @@ design:
     </div>
   </div>
 </div>
-<style>
-  ol {
-    list-style-type: none;
-    counter-reset: my-counter;
-    padding-left: 0;
-  }
-
-  ol li {
-    counter-increment: my-counter;
-    margin-bottom: 10px;
-  }
-
-  ol li::before {
-    content: counter(my-counter);
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    border: 1px solid #000;
-    border-radius: 50%;
-    text-align: center;
-    line-height: 20px;
-    margin-right: 10px;
-  }
-</style>
-
 <div class="col-12 col-md-12 col-lg-12">
   <div class="card">
     <div class="card-body">
       <h2 class="card-title text-center font-weight-bold">Competition</h2>
       <ol>
         <li>
-          <p class="font-weight-bold">2023-04&nbsp;&nbsp;IPv6 technology application innovation competition</p>   
+          <p class="font-weight-bold">&nbsp;2023-04&nbsp;&nbsp;IPv6 technology application innovation competition</p>   
           <p><b><i style="color: red;">National Second Prize - China</i></b></p>  
         </li>
         <li>   
-          <p class="font-weight-bold">2021-08&nbsp;&nbsp;(Huawei Cup) College Student Internet of Things Design Competition</p>   
+          <p class="font-weight-bold">&nbsp;2021-08&nbsp;&nbsp;(Huawei Cup) College Student Internet of Things Design Competition</p>   
           <p><b><i style="color: red;">National Second Prize - China</i></b></p>  
         </li>
       </ol>
     </div>
   </div>
 </div>
+
 
 
 
