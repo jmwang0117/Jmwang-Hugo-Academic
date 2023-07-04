@@ -61,7 +61,7 @@ design:
         </li>
         <li>
           <p class="font-weight-bold">&nbsp;2021-08&nbsp;&nbsp;Renewable Energy Outstanding Science and Technology Works Competition</p>
-          <p><b><i style="color: red;">National Second Prize - China</i></b></p>
+          <p><b><i style="color: red;">National Third Prize - China</i></b></p>
         </li>
         <li>
           <p class="font-weight-bold">&nbsp;2021-01&nbsp;&nbsp;Mathematical Contest In Modeling</p>
