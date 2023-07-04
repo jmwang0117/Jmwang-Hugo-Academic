@@ -43,15 +43,15 @@ design:
     <div class="card-body">
       <h2 class="card-title text-center font-weight-bold">Competition</h2>
       <ol>
-        <li>1.    
-          <p class="font-weight-bold">IPv6 technology application innovation competition</p>  
-          <p>2023-04</p>  
-          <p><b><i style="color: red;">National Second Prize</i></b></p>  
+        <li>
+          <p>2023-04</p>&nbsp;&nbsp;
+          <p class="font-weight-bold">IPv6 technology application innovation competition</p>   
+          <p><b><i style="color: red;">National Second Prize - China</i></b></p>  
           <p>China</p>
         </li>
-        <li>2.    
-          <p class="font-weight-bold">(Huawei Cup) College Student Internet of Things Design Competition</p>  
-          <p>(2021-08)</p>  
+        <li>   
+          <p>2021-08</p>>&nbsp;&nbsp;  
+          <p class="font-weight-bold">(Huawei Cup) College Student Internet of Things Design Competition</p>   
           <p><b><i style="color: red;">National Second Prize - China</i></b></p>  
         </li>
       </ol>
