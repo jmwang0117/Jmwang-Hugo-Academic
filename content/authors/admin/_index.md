@@ -86,8 +86,7 @@ His primary research interests revolve around the fascinating domains of **Embod
         <li >
           <span style="font-weight: bold;"> Research opportunities: </span><span style="color:red">I am happy to collaborate and/or answer questions about my research. If you are interested in research collaboration, please send me an email.</span> 
 			  </li>
-         
-        <li>
+       <li>
 				<span style="font-weight: bold;"> Skills: </span> Pytorch  | Tensorflow  | ROS  | Java | C++  | RaspberryPi  | Jetson Nano  |</br>
 			  </li>
   </ul>
