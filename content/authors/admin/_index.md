@@ -79,19 +79,14 @@ highlight_name: true
 ---
 **Junming Wang** is currently an M.Phil. student in Computer Science at the [University of Hong Kong (HKU)](https://www.hku.hk/). He is a member of the **HKU Systems Software Lab** in the Department of Computer Science, advised by [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming). Junming Wang received his B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), China in 2022.</br>
 
-His research interests are in the areas of **Embodied AI**, **Robotic Systems & Networks**, **3D Computer Vision** and **Neural Rendering**. Recently, he is very interested in **AIGC for Robotic**. Specifically, the following three aspects:</br>
-- **Robot Perception :** NeRF/3D Vision; SLAM/Point Cloud; Depth Estimation; 
-- **Robot Learning Systems :** Multi-Robot Systems; Distributed Robotic Learning;
-- **AIGC for Robotic:** ChatGPT for Robot; Edge-Cloud Generative AI in Mobile Networks;
+His primary research interests revolve around the fascinating domains of **Embodied AI**, **Robotic Systems & Networks**, **3D Computer Vision** and **Neural Rendering**.Lately, his keen interest lies in the application of **AIGC for Robotic**. 
 
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:Georgia">
         <li >
           <span style="font-weight: bold;"> Research opportunities: </span><span style="color:red">I am happy to collaborate and/or answer questions about my research. If you are interested in research collaboration, please send me an email.</span> 
 			  </li>
-         <li>
-				<span style="font-weight: bold;"> Published Venues: </span> EI (2)✔ | Chinese Journal (3)✔ | China Patent (2)✔ | </br>
-			  </li>
+         
         <li>
 				<span style="font-weight: bold;"> Skills: </span> Pytorch  | Tensorflow  | ROS  | Java | C++  | RaspberryPi  | Jetson Nano  |</br>
 			  </li>
