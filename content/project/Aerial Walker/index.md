@@ -17,7 +17,7 @@ url_code: 'https://github.com/jmwang0117/Aerial-Walker'
 
 ---
 
-<video width="640" height="480" controls>
-    <source src="https://connecthkuhk-my.sharepoint.com/:v:/g/personal/u3009632_connect_hku_hk/EWYl1oJNbq9AiSHHFhjA5nYB2u8PYqGef6UuTZ8jsAgLvw?e=i5Vxbi" type="video/mp4">
-</video> 
+<video width="640" height="480" controls crossorigin="anonymous">
+    <source src="https://connecthkuhk-my.sharepoint.com/:v:/g/personal/u3009632_connect_hku_hk/EWYl1oJNbq9AiSHHFhjA5nYB2u8PYqGef6UuTZ8jsAgLvw?e=ECxnCu" type="video/mp4"> 
+</video>
 
