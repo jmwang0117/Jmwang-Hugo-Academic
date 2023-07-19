@@ -54,6 +54,10 @@ design:
       <h2 class="card-title text-center font-weight-bold">Competition</h2>
       <ol>
         <li>
+          <p class="font-weight-bold">&nbsp;2023-07&nbsp;&nbsp;China Computer Federation (CCF) Computer Application Technology Award</p>
+          <p><i style="color: red;">National Second Prize - China</i></p>
+        </li>
+        <li>
           <p class="font-weight-bold">&nbsp;2023-04&nbsp;&nbsp;IPv6 Technology Application Innovation Competition</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>
