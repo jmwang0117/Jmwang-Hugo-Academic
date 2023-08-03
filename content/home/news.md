@@ -8,6 +8,9 @@ design:
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
         <li>
+          [2023/07/15] Our project won the CCF Computer Application Product Innovation Award.</a>
+			  </li> 
+        <li>
           [2023/04/06] Our project won the <b>National Second Prize</b> in <a href="http://www.news.cn/info/rdzt/ipv6ds/index.html">The First IPv6 Technology Application Innovation Competition.</a>
 			  </li>        
         <li>
