@@ -34,8 +34,8 @@ design:
             <p class="red-italic">¥5000 (TOP 1%)</p>
           </li>
           <li>
-            <p class="font-weight-bold">2019 and 2020&nbsp;&nbsp;Individual Scholarship</p>
-            <p class="red-italic">¥15000 (TOP 1%)</p>
+            <p class="font-weight-bold">2019 and 2020 and 2021&nbsp;&nbsp;Individual Scholarship</p>
+            <p class="red-italic">¥16000 (TOP 1%)</p>
           </li>
           <li>
             <p class="font-weight-bold">2021-12&nbsp;&nbsp;The Second Prize Scholarship</p>
