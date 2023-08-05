@@ -22,7 +22,7 @@ abstract: "AI models deployed in real-world tasks (e.g., surveillance, implicit 
 
 # Summary. An optional shortened abstract.
 summary: Xiuxian Guan, <b style="color:#E08040">Junming Wang</b>, Zekai Sun,  Zongyuan Zhang, Tianyang Duan, Shengliang Deng, Fangming Liu, Heming Cui* </br> 
-         <b style="color:#3F51B5"> IEEE International Workshop on Advances in Artificial Intelligence & Machine Learning (AIML), 2023</b> 
+         <b style="color:#3F51B5"> IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), 2023</b> 
 
 
 
