@@ -23,7 +23,7 @@ abstract: "Given the difficulties faced in real-time monitoring of slope deforma
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo*, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Tao Ju </br> 
          
-         <b style="color:#3F51B5"> ACM International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI), 2020</b><b style="color:red;"> (EI)</b> 
+         <b style="color:#3F51B5"> ACM International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI), 2020</b>
 
 
 
