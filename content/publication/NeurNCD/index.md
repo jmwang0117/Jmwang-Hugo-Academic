@@ -22,7 +22,7 @@ abstract: "Discovering novel classes in open-world settings is crucial for real-
 
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang*</b>, Yi Shi</br> 
-         <b style="color:#3F51B5"> Submit to CIRA 2024</b> 
+         <b style="color:#3F51B5"> Submit to ICRA 2024</b> 
 
 
 
