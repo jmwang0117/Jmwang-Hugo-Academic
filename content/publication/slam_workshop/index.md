@@ -1,7 +1,14 @@
 ---
 title: "New Problems in Active Sampling for Mobile Robotic Online Learning"
-
-
+authors:
+- Xiuxian Guan
+- admin
+- Zekai Sun
+- Zongyuan Zhang
+- Tianyang Duan
+- Shengliang Deng
+- Fangming Liu
+- Heming Cui*
 date: "2023-04-01T00:00:00Z"
 doi: ""
 
