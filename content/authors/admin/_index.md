@@ -77,7 +77,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a second-year M.Phil. student in Computer Science at the  [University of Hong Kong (HKU)](https://www.hku.hk/), working under the guidance of  [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and affiliated with the **HKU Systems Software Lab** . Before joining HKU, I obtained my B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), China, in 2022, where I had the honour of being advised by **Prof. Jiuyuan Huo**.
+I am currently a second-year M.Phil. student in Computer Science at the  [University of Hong Kong (HKU)](https://www.hku.hk/), working under the guidance of  [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and affiliated with the **HKU Systems Software Lab**. Before joining HKU, I obtained my B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), China, in 2022, where I had the honour of being advised by **Prof. Jiuyuan Huo**.
 
 My research interests are primarily focused on **Embodied AI**, with a particular emphasis on robot perception, prediction, planning, and control. Recently, I have developed a keen interest in exploring the synergies between large language models (LLMs) and robotics, aiming to unlock new possibilities and applications in the field.
 
