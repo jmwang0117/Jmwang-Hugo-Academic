@@ -77,9 +77,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-**Junming Wang** is currently an M.Phil. student in Computer Science at the [University of Hong Kong (HKU)](https://www.hku.hk/). He is a member of the **HKU Systems Software Lab** in the Department of Computer Science, advised by [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming). Junming Wang received his B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), China in 2022.</br>
+I am currently a second-year M.Phil. student in Computer Science at the  [University of Hong Kong (HKU)](https://www.hku.hk/), working under the guidance of  [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and affiliated with the **HKU Systems Software Lab** . Before joining HKU, I obtained my B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), China, in 2022, where I had the honour of being advised by **Prof. Jiuyuan Huo**.
 
-His primary research interests revolve around the fascinating domains of **Embodied AI**, **Robotic Systems & Networks**, **3D Computer Vision** and **Neural Rendering**.Lately, his keen interest lies in the application of **AIGC for Robotic**. 
+My research interests are primarily focused on **Embodied AI**, with a particular emphasis on robot perception, prediction, planning, and control. Recently, I have developed a keen interest in exploring the synergies between large language models (LLMs) and robotics, aiming to unlock new possibilities and applications in the field.
 
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:Georgia">
