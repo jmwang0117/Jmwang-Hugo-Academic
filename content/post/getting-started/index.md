@@ -42,10 +42,6 @@ categories:
   - 教程
 ---
 
-```python
-import libr
-print('hello')
-```
 
 
 ## Overview
