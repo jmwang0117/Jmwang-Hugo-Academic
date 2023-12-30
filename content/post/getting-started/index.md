@@ -1,5 +1,5 @@
 ---
-title: Reflecting on 2023 A Year of Challenges and Perseverance at HKU
+title: Reflecting on 2023 - A Year of Challenges and Perseverance at HKU
 subtitle: Welcome 👋 2023 recap.
 
 
