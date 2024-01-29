@@ -84,11 +84,9 @@ My research interests are primarily focused on **Embodied AI**, with a particula
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:Georgia">
         <li >
-          <span style="font-weight: bold;"> Research opportunities: </span><span style="color:red">I am happy to collaborate and/or answer questions about my research. If you are interested in research collaboration, please send me an email.</span> 
+         <span style="font-weight: bold;color:red">I am on the industrial research job market in the 2024-2025.</span> 
 			  </li>
-       <li>
-				<span style="font-weight: bold;"> Skills: </span> Pytorch  | Tensorflow  | ROS  | Java | C++  | RaspberryPi  | Jetson Nano  |</br>
-			  </li>
+     
   </ul>
 
 
