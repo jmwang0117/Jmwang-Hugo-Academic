@@ -43,7 +43,7 @@ url_pdf: 'https://drive.google.com/file/d/1fgldch8K3WTydXfrESRmrWmj6xWYUuoJ/view
 #url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
 #url_slides: ''
 #url_source: '#'
-#url_video: '[https://youtu.be/GKAsIh0o1mM?t=106](https://drive.google.com/file/d/1WzAa9sHowuCjnYYA4Pro2YWON0nywb69/view?usp=drive_link)'
+#url_video: 'https://drive.google.com/file/d/1WzAa9sHowuCjnYYA4Pro2YWON0nywb69/view?usp=drive_link'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
