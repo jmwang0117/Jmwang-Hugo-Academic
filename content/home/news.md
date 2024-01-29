@@ -7,6 +7,9 @@ design:
 ---
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
+           <li>
+          [2024/01/30] Our paper was accepted by ICRA 2024 !</a>
+			  </li>
         <li>
           [2023/07/15] Our project won the CCF Computer Application Product Innovation Award.</a>
 			  </li> 
