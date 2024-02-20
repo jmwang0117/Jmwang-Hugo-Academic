@@ -23,8 +23,7 @@ design:
 					[2022/09/01] 👋Today I started my <span style="font-weight: bold;">Master of Philosophy (MPhil)</span> program at <b>the University of Hong Kong (HKU) </b>! 
 			  </li>
          <li>
-					[2022/08/01] 👉I attended the <a href="https://www.oxfordml.school/"> Oxford Machine Learning Summer School </a> , and I'd like to applaud
-          <a href="https://www.ox.ac.uk/">the University of Oxford </a> and the outstanding professors for their inspiring speeches.
+					[2022/08/01] 👉I attended the <a href="https://www.oxfordml.school/"> Oxford Machine Learning Summer School </a>.
 			  </li>
 			  <li>
           [2022/07/04]  📚I attended the <a href="http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html">USTC Online Summer School</a> to start my <span style="font-weight: bold;">Computer Graphics</span> journey !
