@@ -10,12 +10,12 @@ design:
            <li>
           [2024/01/30] Our paper was accepted by ICRA 2024 !</a>
 			  </li>
-        <li>
+<!--         <li>
           [2023/07/15] Our project won the CCF Computer Application Product Innovation Award.</a>
 			  </li> 
         <li>
           [2023/04/06] Our project won the <b>National Second Prize</b> in <a href="http://www.news.cn/info/rdzt/ipv6ds/index.html">The First IPv6 Technology Application Innovation Competition.</a>
-			  </li>        
+			  </li>         -->
         <li>
           [2022/09/30] I had a wonderful time at <a href="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.
 			  </li>        
