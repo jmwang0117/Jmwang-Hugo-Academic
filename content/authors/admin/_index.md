@@ -84,7 +84,7 @@ My research interests are primarily focused on **Embodied AI**, with a particula
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:Georgia">
         <li >
-         <span style="font-weight: bold;color:red">I am on the industrial research job market in the 2024-2025.</span> 
+         <span style="font-weight: bold;color:red">I am on the industrial job market in the 2024-2025.</span> 
 			  </li>
      
   </ul>
