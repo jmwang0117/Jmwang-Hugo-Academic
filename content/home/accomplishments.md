@@ -54,6 +54,10 @@ design:
       <h2 class="card-title text-center font-weight-bold">Competition</h2>
       <ol>
         <li>
+          <p class="font-weight-bold">&nbsp;Mathematical Contest In Modeling</p>
+          <p><i style="color: red;">Meritorious Winners - America</i></p>
+        </li>
+        <li>
           <p class="font-weight-bold">&nbsp;China Computer Federation (CCF) Computer Application Technology Award</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>
@@ -76,10 +80,6 @@ design:
         <li>
           <p class="font-weight-bold">&nbsp;Renewable Energy Outstanding Science and Technology Works Competition</p>
           <p><i style="color: red;">National Third Prize - China</i></p>
-        </li>
-        <li>
-          <p class="font-weight-bold">&nbsp;Mathematical Contest In Modeling</p>
-          <p><i style="color: red;">Meritorious Winners - America</i></p>
         </li>
         <li>
           <p class="font-weight-bold">&nbsp;Mathematical Contest In Modeling</p>
