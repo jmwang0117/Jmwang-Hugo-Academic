@@ -8,14 +8,17 @@ design:
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
            <li>
-          [2024/01/30] Our paper was accepted by ICRA 2024 !</a>
+          [2024/01/30] 👉 Our paper was accepted by ICRA 2024 !</a>
+			  </li>
+          <li>
+          [2023/05/28] 👉 Our paper was accepted by COMPSAC 2023 Workshops !</a>
 			  </li>
 <!--         <li>
           [2023/07/15] Our project won the CCF Computer Application Product Innovation Award.</a>
 			  </li> 
         <li>
           [2023/04/06] Our project won the <b>National Second Prize</b> in <a href="http://www.news.cn/info/rdzt/ipv6ds/index.html">The First IPv6 Technology Application Innovation Competition.</a>
-			  </li>         -->
+			  </li>        
         <li>
           [2022/09/30] I had a wonderful time at <a href="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.
 			  </li>        
@@ -57,7 +60,7 @@ design:
 			  </li>        
 			  <li>
 			  		[2019/01/01] I joined the Laboratory for <span style="font-style: italic;">Intelligent Computing and Big Data Lab(LZJTU)</span> as a <span style="font-weight: bold;">Research Assistant</span> , supervised by Prof. Jiuyuan Huo
-				</li>        
+				</li>         -->
 		  </ul>
 </div>
 
