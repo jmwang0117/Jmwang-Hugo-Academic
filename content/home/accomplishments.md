@@ -54,35 +54,35 @@ design:
       <h2 class="card-title text-center font-weight-bold">Competition</h2>
       <ol>
         <li>
-          <p class="font-weight-bold">&nbsp;2023-07&nbsp;&nbsp;China Computer Federation (CCF) Computer Application Technology Award</p>
+          <p class="font-weight-bold">&nbsp;China Computer Federation (CCF) Computer Application Technology Award</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>
         <li>
-          <p class="font-weight-bold">&nbsp;2023-04&nbsp;&nbsp;IPv6 Technology Application Innovation Competition</p>
+          <p class="font-weight-bold">&nbsp;IPv6 Technology Application Innovation Competition</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>
         <li>
-          <p class="font-weight-bold">&nbsp;2021-08&nbsp;&nbsp;(Huawei Cup) College Student Internet of Things Design Competition</p>
+          <p class="font-weight-bold">&nbsp;(Huawei Cup) College Student Internet of Things Design Competition</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>
         <li>
-          <p class="font-weight-bold">&nbsp;2021-08&nbsp;&nbsp;China National College Student "Innovation, Originality and Entrepreneurship" Challenge</p>
+          <p class="font-weight-bold">&nbsp;China National College Student "Innovation, Originality and Entrepreneurship" Challenge</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>
         <li>
-          <p class="font-weight-bold">&nbsp;2021-08&nbsp;&nbsp;(Bochuang Cup) Embedded Artificial Intelligence Design Competition</p>
+          <p class="font-weight-bold">&nbsp;(Bochuang Cup) Embedded Artificial Intelligence Design Competition</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>
         <li>
-          <p class="font-weight-bold">&nbsp;2021-08&nbsp;&nbsp;Renewable Energy Outstanding Science and Technology Works Competition</p>
+          <p class="font-weight-bold">&nbsp;Renewable Energy Outstanding Science and Technology Works Competition</p>
           <p><i style="color: red;">National Third Prize - China</i></p>
         </li>
         <li>
-          <p class="font-weight-bold">&nbsp;2021-01&nbsp;&nbsp;Mathematical Contest In Modeling</p>
+          <p class="font-weight-bold">&nbsp;Mathematical Contest In Modeling</p>
           <p><i style="color: red;">Meritorious Winners - America</i></p>
         </li>
         <li>
-          <p class="font-weight-bold">&nbsp;2020-09&nbsp;&nbsp;Mathematical Contest In Modeling</p>
+          <p class="font-weight-bold">&nbsp;Mathematical Contest In Modeling</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>
       </ol>
