@@ -77,7 +77,6 @@ design:
           <p class="font-weight-bold">&nbsp;(Bochuang Cup) Embedded Artificial Intelligence Design Competition</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>
-        
         <li>
           <p class="font-weight-bold">&nbsp;Mathematical Contest In Modeling</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
