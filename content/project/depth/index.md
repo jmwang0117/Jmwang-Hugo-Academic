@@ -12,7 +12,7 @@ date: "2022-04-27T00:00:00Z"
 external_link: ""
 
 url_video: 'https://drive.google.com/file/d/1vJjF6xwiPW7VbAZZVYZ4S6TTLtbcAFoV/view?usp=sharing'
-url_slides: 'https://drive.google.com/file/d/12gzT7Gkw6DHhwf2LLzj5EWipf_j8sqXM/view?usp=sharing'
+#url_slides: 'https://drive.google.com/file/d/12gzT7Gkw6DHhwf2LLzj5EWipf_j8sqXM/view?usp=sharing'
 
 ---
 Autonomous navigation and obstacle avoidance of mobile robots has become a research hotspot due to the rapid development of autonomous driving and smart warehousing. Traditional robot navigation and obstacle avoidance are frequently performed using road sign navigation techniques such as autonomous tracking and magnetic wire. Such methods are less adaptable and maneuverable, and they cannot meet the complex and changing business needs of real-world industrial scenarios. Furthermore, previous research on mobile robots has mostly used special software or self-developed platforms for development, so such robots lack openness, portability, and scalability. With the maturation of computer vision and high-precision sensor technology, this thesis develops an open source mobile robot suitable for indoor and outdoor multiple scenes with navigation and obstacle avoidance functions in response to the aforementioned problems.
