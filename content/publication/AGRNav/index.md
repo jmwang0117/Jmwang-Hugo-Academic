@@ -36,14 +36,14 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 
-url_pdf: 'https://jmwang0117.github.io/AGRNav.pdf'
-url_code: 'https://github.com/jmwang0117/AGRNav'
+#url_pdf: 'https://jmwang0117.github.io/AGRNav.pdf'
+#url_code: 'https://github.com/jmwang0117/AGRNav'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
 #url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
 #url_slides: ''
 #url_source: '#'
-url_video: 'https://drive.google.com/file/d/1WzAa9sHowuCjnYYA4Pro2YWON0nywb69/view?usp=drive_link'
+#url_video: 'https://drive.google.com/file/d/1WzAa9sHowuCjnYYA4Pro2YWON0nywb69/view?usp=drive_link'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
