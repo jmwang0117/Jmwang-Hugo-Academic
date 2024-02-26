@@ -1,7 +1,7 @@
 ---
 title: 🤖DAROS - Enabling Embodied Edge Computing for Embodied Intelligence
 summary: <b style="color:#008080">The University of Hong Kong Project</b></br> 
- <b style="color:#E08040">Shengliang Deng, Junming Wang</b> Supervisor - *Prof.Heming Cui*  </br>
+ <b style="color:#E08040">Shengliang Deng, Junming Wang,</b> Supervisor - *Prof.Heming Cui*  </br>
  
 
 tags:
