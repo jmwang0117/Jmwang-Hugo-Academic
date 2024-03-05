@@ -41,7 +41,7 @@ links:
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
 #url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
-#url_slides: ''
+url_slides: 'https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3009632_connect_hku_hk/EQ8ASU6SUpZOpqOdssAHhH4B0-nJ47nkVqGSFApHrs_wIw?e=luB5cD'
 #url_source: '#'
 #url_video: 'https://youtu.be/GKAsIh0o1mM?t=106'
 
