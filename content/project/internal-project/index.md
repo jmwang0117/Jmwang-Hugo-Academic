@@ -12,6 +12,7 @@ external_link: ""
 
 
 url_video: 'https://connecthkuhk-my.sharepoint.com/:v:/g/personal/u3009632_connect_hku_hk/ES8W9XB_p5lFgB9ilXzwH0UB2K50KRY1D54dmRFVY8VffA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Mqp0M9'
+url_slides: 'https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3009632_connect_hku_hk/EQ8ASU6SUpZOpqOdssAHhH4B0-nJ47nkVqGSFApHrs_wIw?e=luB5cD'
 
 ---
  <b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> 
