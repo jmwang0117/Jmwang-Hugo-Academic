@@ -41,7 +41,7 @@ url_code: 'https://github.com/jmwang0117/GNSS_project'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
 #url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
-#url_slides: ''
+url_slides: 'https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3009632_connect_hku_hk/EQ8ASU6SUpZOpqOdssAHhH4B0-nJ47nkVqGSFApHrs_wIw?e=luB5cD'
 #url_source: '#'
 url_video: 'https://connecthkuhk-my.sharepoint.com/:v:/g/personal/u3009632_connect_hku_hk/ES8W9XB_p5lFgB9ilXzwH0UB2K50KRY1D54dmRFVY8VffA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Mqp0M9'
 
