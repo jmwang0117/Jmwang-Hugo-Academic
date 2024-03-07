@@ -41,6 +41,9 @@ experience:
     location: Beijing, China
     date_start: '2022-06-01'
     date_end: '2022-09-30'
+    description: |2-
+              * Implementing a novel class discovery framework Based on NeRF;
+              * Responsible for paper writing.
     
   - title: Summer Student - *Oxford Machine Learning Summer School*
     company: AI for Global Goals & The University of Oxford
