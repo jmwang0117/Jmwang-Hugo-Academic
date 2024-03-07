@@ -22,7 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
   - title: Teaching Assistant
     company: The University of Hong Kong
     company_url: 'https://msccs.cs.hku.hk/public/courses/2022/COMP7503A/'
