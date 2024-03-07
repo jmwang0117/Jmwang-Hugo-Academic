@@ -82,7 +82,7 @@ I am currently a second-year M.Phil. student in Computer Science at the  [Univer
 My research interests are primarily focused on **Embodied AI**, with a particular emphasis on robot perception, prediction and planning. Recently, I have developed a keen interest in exploring the synergies between large language models (LLMs) and robotics, aiming to unlock new possibilities and applications in the field.
 
 {{% callout note %}}
- <ul style = "font-size: 19px;font-family:Georgia">
+ <ul style = "font-size: 19px;font-family:georgia">
         <li >
          <span style="font-weight: bold;color:balck">I am in the industrial job market in the 2024-2025 cycle.</span> 
 			  </li>
