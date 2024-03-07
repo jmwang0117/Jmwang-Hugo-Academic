@@ -28,7 +28,7 @@ experience:
     company_logo: HKU
     location: Hong Kong SAR
     date_start: '2022-09-01'
-    date_end: '2022-12-01'
+    date_end: '2024-09-01'
     description: |2-
               Responsibilities include:
 
