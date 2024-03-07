@@ -93,9 +93,9 @@ experience:
     description: |2-
               Responsibilities include:
 
-              - Completed two innovation and entrepreneurship training projects for college students;
-              - Won 8 national awards in competitions;
-              - Published 3 academic papers and secured 2 patents.
+              * Completed two innovation training projects for college students;
+              * Won 8 national awards in competitions;
+              * Published 3 academic papers and secured 2 patents.
     
   
   
