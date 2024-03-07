@@ -33,8 +33,7 @@ content:
       tag: Computer Vision
     - name: Edge Computing
       tag: Edge Computing
-    - name: Computer Graphic
-      tag: Computer Graphic
+
     
 
 design:
