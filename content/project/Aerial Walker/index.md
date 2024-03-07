@@ -15,7 +15,7 @@ external_link: ""
 
 url_video: 'https://drive.google.com/file/d/1lGnSzVGPBg2aqPXEvwZdKSWIATIQmbCZ/view?usp=sharing'
 image:
-  filename: featured.gif
+  filename: AGR.gif
   focal_point: Smart
   preview_only: false
 
