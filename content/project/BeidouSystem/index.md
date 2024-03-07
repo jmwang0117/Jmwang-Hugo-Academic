@@ -17,7 +17,7 @@ url_slides: 'https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3009632_conn
 ---
  <b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> 
  <b style="color:#E08040">Junming Wang,</b> Hamzah Al-Neshmi, Dan Yang, Zhilu Zhao, Jintao Wei  </br>
- **(<b style="color:#3F51B5">National Level-</b> ¥ 10000CNY)**</br>
+ **(<b style="color:#3F51B5">National Level-</b> ¥ 10000 RMB)**</br>
  
 #### **System Features:**
 
