@@ -12,7 +12,6 @@ date: "2023-06-27T00:00:00Z"
 external_link: ""
 
 url_video: 'https://drive.google.com/file/d/1lGnSzVGPBg2aqPXEvwZdKSWIATIQmbCZ/view?usp=sharing'
-url_code: 'https://github.com/jmwang0117/Aerial-Walker'
 
 
 ---
