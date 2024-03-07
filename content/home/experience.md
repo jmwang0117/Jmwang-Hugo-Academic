@@ -30,6 +30,8 @@ experience:
     date_start: '2022-09-01'
     date_end: '2022-12-01'
      description: |2-
+    Responsibilities include:
+    
               * FITE7411B - RegTech in finance, with Prof.Douglas Arner
               * COMP7503 - Multimedia technologies, with Dr. Bill Luo
 
