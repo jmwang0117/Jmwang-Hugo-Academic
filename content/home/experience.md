@@ -49,7 +49,9 @@ experience:
     company: AI for Global Goals & The University of Oxford
     company_url: 'https://www.oxfordml.school/'
     company_logo: p5
-    location: Oxford, UK 
+    location: Oxford, UK
+    items:
+        - certificate_url: https://www.coursera.org
     date_start: '2022-06-27'
     date_end: '2022-08-14'
     description: |2-
