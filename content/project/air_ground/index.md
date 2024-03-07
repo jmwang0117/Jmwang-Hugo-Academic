@@ -22,6 +22,8 @@ image:
 Abstract:
 Traditional robots often suffer from limited mobility and functionality, restricting their applications in various fields. To address these limitations, we have designed an innovative integrated multimodal land and air robot that combines advanced features such as voice control, autonomous flight, posture monitoring, and interaction with chatbots. This paper highlights the drawbacks of conventional robots and emphasizes the advantages of our land and air robot, providing a detailed overview of its functionalities in a clear and logical manner.
 
+![Alt text for my gif](/images/featured.gif)
+
 Introduction:
 Traditional robots are typically confined to a single mode of operation and often lack the versatility required for diverse applications. This has led to the development of our integrated multimodal land and air robot, which offers enhanced mobility and functionality by combining voice control, autonomous flight, posture monitoring, and interaction with chatbots.
 
