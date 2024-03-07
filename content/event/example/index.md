@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: ICRA 2024 Oral Presentation
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: ICRA 2024
+event_url: https://2024.ieee-icra.org/
 
 location: Wowchemy HQ
 address:
