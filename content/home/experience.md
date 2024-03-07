@@ -52,6 +52,9 @@ experience:
     location: Oxford, UK 
     date_start: '2022-06-27'
     date_end: '2022-08-14'
+    description: |2-
+              * Machine Learning Fundamentals;
+              * Machine Learning and Finance Track.
     
       
   - title: Summer Student - *USTC Online Summer School*
@@ -87,6 +90,13 @@ experience:
     location: Lanzhou, China
     date_start: '2019-09-01'
     date_end: '2021-06-01'
+    description: |2-
+              Responsibilities include:
+
+              - Completed two innovation and entrepreneurship training projects for college students;
+              - Won 8 national awards in competitions;
+              - Published 3 academic papers and secured 2 patents.
+    
   
   
 design:
