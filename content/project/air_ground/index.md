@@ -13,7 +13,10 @@ external_link: ""
 
 url_video: 'https://drive.google.com/file/d/17I-idzGeMKL0Yf4UB5m8Dbfkvotb8UJE/view?usp=sharing'
 
-
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+  
 ---
 
 Abstract:
