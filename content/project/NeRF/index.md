@@ -5,7 +5,7 @@ summary: <b style="color:#008080">CASIA internship program</b></br>
  
 
 tags:
-- Computer Graphic
+- Computer Vision
 date: "2022-09-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
