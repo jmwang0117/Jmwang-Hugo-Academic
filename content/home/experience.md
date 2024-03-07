@@ -34,7 +34,6 @@ experience:
 
               * FITE7411B - RegTech in finance, Prof.Douglas Arner
               * COMP7503 - Multimedia technologies, Dr. Bill Luo
-              * Deploying
   - title: Research Intern
     company: Institute of Automation，Chinese Academy of Sciences
     company_url: 'http://english.ia.cas.cn/'
