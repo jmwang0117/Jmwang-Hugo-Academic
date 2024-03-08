@@ -6,7 +6,7 @@ summary: <b style="color:#008080">The University of Hong Kong Project</b></br>
 
 tags:
 - Robotics
-date: "2022-09-27T00:00:00Z"
+date: "2023-06-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
