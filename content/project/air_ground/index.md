@@ -21,6 +21,7 @@ Traditional robots often suffer from limited mobility and functionality, restric
 
 <div align="center">
     <img src="1.gif", width="640" alt><br>
+  <img src="V9.gif", width="640" alt><br>
 </div>
 
 
