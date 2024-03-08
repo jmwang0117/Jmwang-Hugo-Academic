@@ -14,7 +14,7 @@ url_video: 'https://drive.google.com/file/d/1lGnSzVGPBg2aqPXEvwZdKSWIATIQmbCZ/vi
 
 ---
 
-
+Our custom AGR platform is composed of a quadrotor with a 600mm diagonal wheelbase. This platform employs the Prometheus software system and is equipped with a RealSense D435i depth camera and a T265 camera. It also features a Jetson Xavier NX onboard computer for the deployed AGRNav framework. Mobility is sustained by a 10,000 mAh energy source, which enables up to 26 minutes of hovering. 
 
 
 <div align="center">
