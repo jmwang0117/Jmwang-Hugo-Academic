@@ -36,7 +36,7 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 
-#url_pdf: 'https://jmwang0117.github.io/AGRNav.pdf'
+url_pdf: 'https://arxiv.org/abs/2403.11607'
 url_code: 'https://github.com/jmwang0117/AGRNav'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
