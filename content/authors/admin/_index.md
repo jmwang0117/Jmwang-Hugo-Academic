@@ -84,7 +84,7 @@ My research interests are primarily focused on **Embodied AI**, with a particula
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:georgia">
         <li >
-         <span style="font-weight: bold;color:balck">I am in the industrial job market in the 2024-2025 cycle.</span> 
+         <span style="font-weight: bold;color:red">I am in the industrial job market in the 2024-2025 cycle.</span> 
 			  </li>
      <li >
          <span style="font-weight: bold;color:balck">Skills: ROS | Python | PyTorch | Tensorflow | C++ | TensorRT</span> 
