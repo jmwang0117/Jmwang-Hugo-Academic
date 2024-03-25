@@ -15,7 +15,7 @@ design:
 			  </li>
 <!--         <li>
           [2023/07/15] Our project won the CCF Computer Application Product Innovation Award.</a>
-			  </li> 
+			  </li>  -->
         <li>
           [2023/04/06] Our project won the <b>National Second Prize</b> in <a href="http://www.news.cn/info/rdzt/ipv6ds/index.html">The First IPv6 Technology Application Innovation Competition.</a>
 			  </li>        
@@ -60,7 +60,7 @@ design:
 			  </li>        
 			  <li>
 			  		[2019/01/01] I joined the Laboratory for <span style="font-style: italic;">Intelligent Computing and Big Data Lab(LZJTU)</span> as a <span style="font-weight: bold;">Research Assistant</span> , supervised by Prof. Jiuyuan Huo
-				</li>         -->
+				</li>        
 		  </ul>
 </div>
 
