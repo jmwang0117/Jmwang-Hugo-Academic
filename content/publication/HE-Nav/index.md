@@ -23,9 +23,9 @@ abstract: "Aerial-ground robots (AGRs) have unique dual-mode capabilities (i.e.,
 In this paper, we present HE-Nav, the first high-performance and efficient navigation system tailored for AGRs. The perception module utilizes a lightweight semantic scene completion network (LBSCNet), guided by a bird's eye view (BEV) feature fusion and enhanced by an exquisitely designed SCB-Fusion module and attention mechanism. This enables real-time and efficient obstacle prediction in occluded areas, generating a complete local map. Building upon this completed map, our novel AG-Planner employs the energy-efficient kinodynamic A* search algorithm to guarantee planning is energy-saving. Subsequent trajectory optimization and post-refinement processes yield safe, smooth, dynamically feasible and ESDF-free aerial-ground hybrid paths. Extensive experiments demonstrate that HE-Nav achieved 7x energy savings in real-world situations while maintaining planning success rates of 98% in simulation scenarios. The code and video can be found on our project page: https://jmwang0117.github.io/HE-Nav/."
 
 # Summary. An optional shortened abstract.
-summary: <b style="color:#E08040">Junming Wang,</b> Zekai Sun, Xiuxian Guan, Tianxiang Shen, Zongyuan Zhang, Tianyang Duan, Dong Huang, Shixiong Zhao, Heming Cui*  </br> 
+summary: <b style="color:#E08040">Junming Wang,</b> Zekai Sun, Xiuxian Guan, Tianxiang Shen, Dong Huang, Zongyuan Zhang, Tianyang Duan, Fangming Liu, Heming Cui*  </br> 
          
-         <b style="color:#3F51B5">  IEEE International Conference on Robotics and Automation (ICRA), 2024</b>
+         <b style="color:#3F51B5"> Submitted to IEEE Robotics and Automation Letters (RAL 2024)</b>
 
 
 
@@ -37,15 +37,15 @@ featured: false
 links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
-
-url_pdf: 'https://arxiv.org/abs/2403.11607'
-url_code: 'https://github.com/jmwang0117/AGRNav'
+url_project: 'https://jmwang0117.github.io/HE-Nav/'
+#url_pdf: 'https://arxiv.org/abs/2403.11607'
+url_code: 'https://github.com/jmwang0117/HE-Nav'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
-#url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
+
 #url_slides: ''
 #url_source: '#'
-url_video: 'https://drive.google.com/file/d/1-eWn4AIP1B4ZhvQGBhj2u_LvF3u-6MNs/view?usp=sharing'
+url_video: 'https://www.youtube.com/watch?v=8-8XW6ufnZo'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
