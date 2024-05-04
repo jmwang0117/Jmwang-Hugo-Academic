@@ -24,6 +24,7 @@ abstract: "The exceptional mobility and long endurance of air-ground robots are 
 summary: <b style="color:#E08040">Junming Wang,</b> Zekai Sun, Xiuxian Guan, Tianxiang Shen, Zongyuan Zhang, Tianyang Duan, Dong Huang, Shixiong Zhao, Heming Cui*  </br> 
          
          <b style="color:#3F51B5">  IEEE International Conference on Robotics and Automation (ICRA), 2024</b>
+         <b style="color:red">  Oral Presentation </b>
 
 
 
