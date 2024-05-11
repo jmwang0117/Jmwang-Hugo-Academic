@@ -39,8 +39,8 @@ links:
 
 url_pdf: 'https://arxiv.org/abs/2403.11607'
 url_code: 'https://github.com/jmwang0117/AGRNav'
-#url_dataset: '#'
-#url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
+url_dataset: 'http://www.semantic-kitti.org/'
+url_poster: 'https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3009632_connect_hku_hk/ERltyXWMLr1MlAo5IiwPmYgBEXk42X-lzvYdO94eKMNGqA?e=eZmWm0'
 #url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
 #url_slides: ''
 #url_source: '#'
