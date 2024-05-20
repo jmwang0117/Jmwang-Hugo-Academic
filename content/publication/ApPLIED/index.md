@@ -23,7 +23,7 @@ This paper reveals and evaluates the problems hindering the application of these
 
 # Summary. An optional shortened abstract.
 summary: Zekai Sun, Xiuxian Guan, <b style="color:#E08040">Junming Wang</b>,  Fangming Liu, Heming Cui* </br> 
-         <b style="color:#3F51B5"> Advanced tools, programming languages, and PLatforms for Implementing and Evaluating algorithms for Distributed systems (ApPLIED Workshop @PODC'24), 2024</b> 
+         <b style="color:#3F51B5"> ApPLIED Workshop @PODC 2024</b> 
 
 
 
