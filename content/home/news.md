@@ -11,7 +11,7 @@ design:
           [2024/05/20] 👉 One paper accepted to ApPLIED Workshop @PODC'24 !</a>
 			  </li>
            <li>
-          [2024/01/30] 👉 One paper accepted to ICRA 2024 !</a>
+          [2024/01/30] 👉 One paper accepted to ICRA 2024 ! See you in Yokohama. </a>
 			  </li>
           <li>
           [2023/05/28] 👉 One paper accepted to AIML Workshop @COMPSAC'23 !</a>
