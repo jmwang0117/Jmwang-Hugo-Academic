@@ -1,5 +1,5 @@
 ---
-title: "New Problems in Distributed Inference for DNN Models on Robotic IoT"
+title: "Hybrid-Parallel: Achieving High Performance and Energy Efficient Distributed Inference on Robots"
 
 date: "2024-01-15T00:00:00Z"
 doi: ""
@@ -22,8 +22,9 @@ abstract: "The rapid advancements in machine learning (ML) techniques have led t
 This paper reveals and evaluates the problems hindering the application of these parallel methods in robotic IoT, including the failure of data parallelism, the unacceptable communication overhead of tensor parallelism, and the significant transmission bottlenecks in pipeline parallelism. By raising awareness of these new problems, we aim to stimulate research toward finding a new parallel method to achieve fast and energy-efficient distributed inference in robotic IoT."
 
 # Summary. An optional shortened abstract.
-summary: Zekai Sun, Xiuxian Guan, <b style="color:#E08040">Junming Wang</b>,  Fangming Liu, Heming Cui* </br> 
-         <b style="color:#3F51B5"> ApPLIED Workshop @PODC 2024</b> 
+summary: Zekai Sun, Xiuxian Guan, <b style="color:#E08040">Junming Wang</b>, Haoze Song, Yuhao Qing, Tianxiang Shen, Dong Huang, Fangming Liu, Heming Cui* </br> 
+        <b style="color:#3F51B5"> arvix, 2024</b> </br> 
+        <b style="color:#3F51B5"> ApPLIED Workshop @PODC 2024</b> 
 
 
 
