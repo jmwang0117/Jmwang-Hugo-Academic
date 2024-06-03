@@ -23,7 +23,7 @@ This paper reveals and evaluates the problems hindering the application of these
 
 # Summary. An optional shortened abstract.
 summary: Zekai Sun, Xiuxian Guan, <b style="color:#E08040">Junming Wang</b>, Haoze Song, Yuhao Qing, Tianxiang Shen, Dong Huang, Fangming Liu, Heming Cui* </br> 
-        <b style="color:#3F51B5"> arVix, 2024</b> </br> 
+        <b style="color:#3F51B5"> arXiv, 2024</b> </br> 
         <b style="color:#3F51B5"> ApPLIED Workshop @PODC 2024</b>  <b style="color:red"> | Oral Presentation </b>
 
 
