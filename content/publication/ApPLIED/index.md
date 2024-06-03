@@ -37,7 +37,7 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 
-#url_pdf: 'https://ieeexplore.ieee.org/document/10196926'
+url_pdf: 'https://arxiv.org/abs/2405.19257'
 #url_code: 'files/ColorTracking_code.zip'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
