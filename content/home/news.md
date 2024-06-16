@@ -7,12 +7,9 @@ design:
 ---
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
-
 		  <li>
           [2024/06/17] 👉 One paper accepted to ICCC 2024 !</a>
 			  </li>
-
-
          <li>
           [2024/05/20] 👉 One paper accepted to ApPLIED Workshop @PODC'24 !</a>
 			  </li>
