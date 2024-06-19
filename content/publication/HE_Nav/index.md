@@ -13,7 +13,7 @@ publishDate: "2024-04-04T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Robotics and Automation*
@@ -24,7 +24,7 @@ abstract: "Aerial-ground robots (AGRs) have unique dual-mode capabilities (i.e.,
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang,</b> Zekai Sun, Xiuxian Guan, Tianxiang Shen, Dong Huang, Zongyuan Zhang, Tianyang Duan, Fangming Liu, Heming Cui*  </br> 
          
-         <b style="color:#3F51B5"> IEEE Robotics and Automation Letters (RA-L), 2024</b> | Under Review
+         <b style="color:#3F51B5"> IEEE Robotics and Automation Letters (RA-L), 2024</b> | **Under Review**
 
 
 
