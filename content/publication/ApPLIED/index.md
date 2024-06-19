@@ -44,7 +44,7 @@ url_pdf: 'https://arxiv.org/abs/2405.19257'
 #url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
 #url_slides: ''
 #url_source: '#'
-#url_video: 'https://youtu.be/GKAsIh0o1mM?t=106'
+url_video: 'https://youtu.be/mF9o1L88U8A?si=33jhj3QJax6ivbLr'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
