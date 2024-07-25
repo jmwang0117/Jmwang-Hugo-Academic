@@ -14,7 +14,7 @@ organizations:
     url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on robotic vision and distributed robotic systems.
+bio: My research interests focus on Embodied AI.
 
 # Interests to show in About widget
 interests:
@@ -29,7 +29,7 @@ education:
   courses:
     - course: MPhil in Computer Science and Technology
       institution: The University of Hong Kong(HKU)
-      year: 2022.09-2024.09
+      year: 2022.09-2024.10
     - course: BEng in Computer Science and Technology
       institution: Lanzhou Jiaotong University(LZJTU)
       year: 2018.09-2022.06
@@ -77,17 +77,14 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a second-year M.Phil. student in Computer Science at the  [University of Hong Kong (HKU)](https://www.hku.hk/), working under the guidance of  [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and affiliated with the **HKU Systems Software Lab**. Before joining HKU, I obtained my B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), China, in 2022, where I had the honour of being advised by  [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm).
+I am currently a second-year M.Phil. student in Computer Science at the  [University of Hong Kong (HKU)](https://www.hku.hk/), working under the guidance of  [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and affiliated with the **HKU Systems Software Lab**. Before joining HKU, I obtained my B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), where I had the honour of being advised by  [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm).
 
-My research interests are primarily focused on **Embodied AI**, with a particular emphasis on robot perception, prediction and planning. Recently, I have developed a keen interest in exploring the synergies between large language models (LLMs) and robotics, aiming to unlock new possibilities and applications in the field.
+My research interests are primarily focused on **Embodied AI**, with a particular emphasis on *robot perception, localization and planning*. I am also an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), a research interest group that conducts various topics about 3D (e.g., 3DV for Robotics or Autonomous Driving). Recently, I've become deeply fascinated by the application of diffusion models in robot control.
 
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:georgia">
         <li >
          <span style="font-weight: bold;color:red">I am in the industrial job market in the 2024-2025 cycle.</span> 
-			  </li>
-     <li >
-         <span style="font-weight: bold;color:balck">Skills: ROS | Python | PyTorch | Tensorflow | C++ | TensorRT</span> 
 			  </li>
      
   </ul>
