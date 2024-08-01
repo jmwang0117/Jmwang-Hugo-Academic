@@ -37,9 +37,9 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 #url_project: 'https://jmwang0117.github.io/HE-Nav/'
-url_pdf: '#'
-url_code: '#'
-url_video: '#'
+url_pdf: 'https://dynamicdr.github.io/P_HRL/P_HRL_ICCC_2024_.pdf'
+#url_code: '#'
+#url_video: '#'
 
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
