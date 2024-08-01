@@ -36,12 +36,12 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 
-#url_pdf: 'https://drive.google.com/file/d/1fgldch8K3WTydXfrESRmrWmj6xWYUuoJ/view?usp=sharing'
+url_pdf: 'https://jmwang0117.github.io/BDS.pdf'
 #url_code: 'https://github.com/jmwang0117/AGRNav'
 #url_dataset: '#'
 #url_poster: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/CN_Tracking_CVPR14_poster.pdf'
 #url_project: 'http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html'
-url_slides: 'https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3009632_connect_hku_hk/EQ8ASU6SUpZOpqOdssAHhH4B0-nJ47nkVqGSFApHrs_wIw?e=luB5cD'
+#url_slides: 'https://connecthkuhk-my.sharepoint.com/:b:/g/personal/u3009632_connect_hku_hk/EQ8ASU6SUpZOpqOdssAHhH4B0-nJ47nkVqGSFApHrs_wIw?e=luB5cD'
 #url_source: '#'
 #url_video: 'https://drive.google.com/file/d/1WzAa9sHowuCjnYYA4Pro2YWON0nywb69/view?usp=drive_link'
 
