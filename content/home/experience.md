@@ -65,23 +65,6 @@ experience:
     location: Hefei, China
     date_start: '2022-07-04'
     date_end: '2022-07-09'
-      
-
-
-  - title: Python Intern - *Data Analysis Group*
-    company: Jiabao Trading Co., Ltd.
-    company_logo: p2
-    location: Zhangye, China
-    date_start: '2021-01-01'
-    date_end: '2021-04-01'
-        
-        
-  - title: Java Intern - *Technology Group*
-    company: Hengsheng Electronic Technology Co., Ltd. 
-    company_logo: p3
-    location: Zhangye, China
-    date_start: '2020-02-01'
-    date_end: '2020-04-01'
           
         
   - title: Research Assistant
