@@ -1,6 +1,6 @@
 
 ---
-title: "HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Occluded Environments"
+title: "HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments"
 
 
 date: "2024-04-04T00:00:00Z"
