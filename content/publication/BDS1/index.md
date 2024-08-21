@@ -23,7 +23,7 @@ abstract: "In light of the challenges associated with the real-time surveillance
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang,</b> Jiuyuan Huo*, Cong Mu, Lin Mu, Hamzah Murad Mohammed Al-Neshmi, Meng Liu, Tao Ju  </br> 
          
-         <b style="color:#3F51B5">Journal of Microcontrollers & Embedded Systems (Chinese Journal), 2020</b>
+         <b style="color:#3F51B5">Journal of Microcontrollers & Embedded Systems, 2020</b>
 
 
 
