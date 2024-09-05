@@ -29,7 +29,7 @@ education:
   courses:
     - course: MPhil in Computer Science and Technology
       institution: The University of Hong Kong(HKU)
-      year: 2022.09-2024.10
+      year: 2022.09-2024.09
     - course: BEng in Computer Science and Technology
       institution: Lanzhou Jiaotong University(LZJTU)
       year: 2018.09-2022.06
@@ -87,7 +87,7 @@ My research interests are primarily focused on **Embodied AI**, with a particula
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:georgia">
         <li >
-         <span style="font-weight: bold;color:red">I am in the industrial job market in the 2024-2025 cycle.</span> 
+         Published Venues: ICRA(1) ✔</span> 
 			  </li>
      
   </ul>
