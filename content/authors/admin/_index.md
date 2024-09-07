@@ -86,9 +86,9 @@ My research interests are primarily focused on **Embodied AI**, with a particula
 
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:georgia">
-        <li >
-         Published Venues: ICRA(1) ✔</span> 
-			  </li>
+        <li> 
+        <strong>First Author Published Venues:</strong> ICRA(1) ✔ | ICMR(1) ✔ | RICAI(1) ✔ 
+        </li> 
      
   </ul>
 
