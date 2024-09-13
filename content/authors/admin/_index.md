@@ -19,7 +19,7 @@ bio: My research interests focus on Embodied AI.
 # Interests to show in About widget
 interests:
   - Embodied AI
-  - Distributed Robot System
+  - 3D Computer Vision
   - SLAM & Point Cloud
   - Edge Computing
   - Artificial Intelligence
