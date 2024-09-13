@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Summer Student - * Horizon Robotics*
+    company:  Horizon Robotics
+    company_url: 'https://en.horizon.cc/'
+    company_logo: p6
+    location: ShenZhen, China
+    date_start: '2024-04-28'
+    date_end: '2024-09-30'
+    description: |2-
+              Responsibilities include:
+
+              * Diffusion-based End-to-End Path Planner
+              * GPT-4o-Guided Human-like Trajectory Scorer
+
   - title: Teaching Assistant
     company: The University of Hong Kong
     company_url: 'https://msccs.cs.hku.hk/public/courses/2022/COMP7503A/'
@@ -56,17 +69,7 @@ experience:
     description: |2-
               * Machine Learning Fundamentals;
               * Machine Learning and Finance Track.
-    
-      
-  - title: Summer Student - *USTC Online Summer School*
-    company: University of Science and Technology of China
-    company_url: 'http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html'
-    company_logo: p6
-    location: Hefei, China
-    date_start: '2022-07-04'
-    date_end: '2022-07-09'
-          
-        
+
   - title: Research Assistant
     company: Professor Huo Jiuyuan's Laboratory
     company_url: 'https://www.lzjtu.cn/'
