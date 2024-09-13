@@ -83,12 +83,18 @@ As an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), I coll
 
 
 {{% callout note %}}
- <ul style = "font-size: 19px;font-family:georgia">
-        <li> 
-        <strong>First Author Published Venues:</strong> ICRA(1) ✔ | ICMR(1) ✔ | RICAI(1) ✔ 
-        </li> 
-     
-  </ul>
+
+
+<ul style="font-size: 19px;font-family:georgia">
+    <li>
+        <strong>First Author Published Venues:</strong>
+        <ul>
+            <li>Robotics: ICRA(1) ✔ | RA-L (1)✔ </li>
+            <li>Computer Vision: ICMR(1) ✔</li>
+            <li>IoT: RICAI(1) ✔</li>
+        </ul>
+    </li>
+</ul>
 
 
 {{% /callout %}}
