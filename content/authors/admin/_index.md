@@ -81,7 +81,6 @@ I am an Embodied AI Researcher at [X Square Robot](http://www.x2robot.com/Home.h
 
 As an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), I collaborate closely with [Dr. Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en) and [Dr. Xiaoxiao Long](https://www.xxlong.site/). Previously, I interned at [Horizon Robotics](https://en.horizon.cc/) and [CASIA](http://english.ia.cas.cn/).
 
-My research interests are primarily focused on **Embodied AI**, with a particular emphasis on **robot perception, localization and planning**. Recently, I've become deeply fascinated by the application of diffusion models in robotic manipulation.
 
 {{% callout note %}}
  <ul style = "font-size: 19px;font-family:georgia">
