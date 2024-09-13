@@ -83,7 +83,7 @@ As an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), I coll
 
 
 {{% callout note %}}
-<ul style="font-size: 16px;font-family:georgia">
+<ul style="font-size: 18px;font-family:georgia">
     <li>
         <strong>First Author Published Venues:</strong>
         <ul>
