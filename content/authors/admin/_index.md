@@ -88,7 +88,6 @@ As an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), I coll
         <strong>First Author Published Venues:</strong>
         <ul>
             <li>ICRA(1) ✔ | RA-L (1)✔ | ICMR(1) ✔ | RICAI(1) ✔</li>
-           
         </ul>
     </li>
 </ul>
