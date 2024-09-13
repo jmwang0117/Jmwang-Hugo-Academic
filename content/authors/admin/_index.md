@@ -77,9 +77,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I will be joining [X Square Robot](http://www.x2robot.com/Home.html) as an *Embodied AI Researcher*. I am currently a second-year M.Phil. student in Computer Science at the [University of Hong Kong (HKU)](https://www.hku.hk/), working under the guidance of  [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and affiliated with the **HKU Systems Software Lab**. Before joining HKU, I obtained my B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), where I had the honour of being advised by  [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm). 
+I am an Embodied AI Researcher at [X Square Robot](http://www.x2robot.com/Home.html). I earned my M.Phil. from the [University of Hong Kong](https://www.hku.hk/) under [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and my B.Eng with First Class Honors from Lanzhou Jiaotong University, advised by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm).
 
-I am also an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), a research interest group that conducts various topics about 3D (e.g., 3DV for Robotics). In the past, I have worked with [Horizon Robotics](https://en.horizon.cc/) and [CASIA](http://english.ia.cas.cn/) as a research intern.
+As an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), I collaborate closely with [Dr. Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en) and [Dr. Xiaoxiao Long](https://www.xxlong.site/). Previously, I interned at [Horizon Robotics](https://en.horizon.cc/) and [CASIA](http://english.ia.cas.cn/).
 
 My research interests are primarily focused on **Embodied AI**, with a particular emphasis on **robot perception, localization and planning**. Recently, I've become deeply fascinated by the application of diffusion models in robotic manipulation.
 
