@@ -16,6 +16,9 @@ design:
          <li>
           [2024/05/20] 🎉🎉 One paper accepted to ApPLIED Workshop @PODC'24 !</a>
 			  </li>
+		 <li>
+          [2024/04/07] 🎉🎉 One paper accepted to ICMR 2024 ! </a>
+			  </li>
            <li>
           [2024/01/30] 🎉🎉 One paper accepted to ICRA 2024 ! </a>
 			  </li>
