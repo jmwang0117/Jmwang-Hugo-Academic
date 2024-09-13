@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Algorithm intern - * Horizon Robotics*
+  - title: Algorithm intern - *Horizon Robotics*
     company:  Horizon Robotics
     company_url: 'https://en.horizon.cc/'
     company_logo: p6
