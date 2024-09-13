@@ -7,7 +7,10 @@ design:
 ---
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
-  <li>
+		  <li>
+          [2024/09/13] 🎉🎉 One paper accepted to RA-L 2024 ! </a>
+			  </li>
+  			<li>
           [2024/08/29] 👨‍🎓 I have successfully defended my MPhil thesis！</a>
 			  </li>
 		  <li>
