@@ -25,7 +25,7 @@ experience:
   - title: Algorithm intern
     company:  Horizon Robotics
     company_url: 'https://en.horizon.cc/'
-    company_logo: p7
+    company_logo: P7
     location: ShenZhen, China
     date_start: '2024-04-28'
     date_end: '2024-09-30'
