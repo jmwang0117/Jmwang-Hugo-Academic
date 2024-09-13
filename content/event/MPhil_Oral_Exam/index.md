@@ -2,15 +2,15 @@
 title: MPhil Student Pre-Graduation Seminar
 
 event: MPhil Student Pre-Graduation Seminar
-event_url: https://2024.ieee-icra.org/
+event_url: 
 
-location: PACIFICO Yokohama Japan
+location: The University of Hong Kong
 address:
   street: #
-  city: Yokohama
-  region: Japan
+  city: Hong Kong SAR
+  region: HKU
   postcode: '#'
-  country: Japan
+  country: China
 
 summary: MPhil Student Pre-Graduation Seminar
 abstract: 'MPhil Student Pre-Graduation Seminar'
