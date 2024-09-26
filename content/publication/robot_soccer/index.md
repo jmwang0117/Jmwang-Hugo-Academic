@@ -37,7 +37,7 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 #url_project: 'https://jmwang0117.github.io/HE-Nav/'
-url_pdf: 'https://dynamicdr.github.io/P_HRL/P_HRL_ICCC_2024_.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/document/10681747'
 #url_code: '#'
 #url_video: '#'
 
