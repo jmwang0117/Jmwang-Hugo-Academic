@@ -77,7 +77,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an Embodied AI Researcher at [X Square Robot](http://www.x2robot.com/Home.html). I earned my M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/) under [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and my B.Eng degree with First Class Honors from Lanzhou Jiaotong University, advised by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm).
+I am an Embodied AI Researcher at *X Square Robot*. I earned my M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/) under [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and my B.Eng degree with First Class Honors from Lanzhou Jiaotong University, advised by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm).
 
 As an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), I collaborate closely with [Dr. Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en) and [Dr. Xiaoxiao Long](https://www.xxlong.site/). Previously, I interned at [Horizon Robotics](https://en.horizon.cc/) and [CASIA](http://english.ia.cas.cn/).
 
