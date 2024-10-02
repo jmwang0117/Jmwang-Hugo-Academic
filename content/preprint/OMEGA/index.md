@@ -1,4 +1,3 @@
-
 ---
 title: "OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model"
 
