@@ -25,7 +25,6 @@ main:
   - name: Talks
     url: '#talks'
     weight: 18
-
   - name: Contact
     url: '#contact'
     weight: 19
