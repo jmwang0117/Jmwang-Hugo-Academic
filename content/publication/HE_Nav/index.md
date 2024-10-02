@@ -2,6 +2,12 @@
 ---
 title: "HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments"
 
+<div style="background-color: #E08040; color: white; padding: 10px; border-radius: 5px; text-align: center; margin-bottom: 20px;">
+  <strong>RA-L 2024</strong>
+</div>
+
+# {{ .Title }}
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -28,8 +34,7 @@ author_notes:
   - 
   - 
   - 'Corresponding author'
-<br>
-<p style="font-size: 1.1em;color:#3F51B5">IEEE Robotics and Automation Letters (RA-L), 2024</p>
+
 
 date: "2024-04-04T00:00:00Z"
 doi: ""
