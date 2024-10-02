@@ -15,7 +15,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: publication
+  page_type: preprints
   count: 6
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
