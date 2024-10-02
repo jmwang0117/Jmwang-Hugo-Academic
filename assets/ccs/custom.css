@@ -1,0 +1,12 @@
+/* assets/css/custom.css */
+
+/* Enlarging author names */
+.publication-authors {
+    font-size: 1.2em; /* Adjust the size as needed */
+  }
+  
+  /* Enlarging publication venue (journal/conference name) */
+  .publication-venue {
+    font-size: 1em; /* Adjust the size as needed */
+  }
+  
