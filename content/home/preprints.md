@@ -13,13 +13,6 @@ weight: 25
 title: Preprints
 subtitle: ''
 
-content:
-  # Page type to display. E.g. project.
-  page_type: preprints
-  count: 6
-
-
-    
 
 
 design:
