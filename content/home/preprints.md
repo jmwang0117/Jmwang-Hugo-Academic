@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 26
+weight: 25
 
 title: Preprints
 subtitle: ''
