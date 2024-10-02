@@ -6,7 +6,7 @@ title: "HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Gr
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - <span style="font-size: larger;">Junming Wang</span>
+  - Junming Wang
   - Zekai Sun
   - Xiuxian Guan
   - Tianxiang Shen
@@ -28,7 +28,7 @@ author_notes:
   - 
   - 
   - 'Corresponding author'
-
+<br>
 <p style="font-size: 1.1em;color:#3F51B5">IEEE Robotics and Automation Letters (RA-L), 2024</p>
 
 date: "2024-04-04T00:00:00Z"
