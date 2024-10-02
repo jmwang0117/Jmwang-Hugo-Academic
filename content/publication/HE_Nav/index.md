@@ -1,10 +1,11 @@
 
----
-title: "HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments"
-
 <div style="background-color: #E08040; color: white; padding: 10px; border-radius: 5px; text-align: center; margin-bottom: 20px;">
   <strong>RA-L 2024</strong>
 </div>
+---
+title: "HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments"
+
+
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
