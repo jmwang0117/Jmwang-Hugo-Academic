@@ -19,8 +19,16 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 'Corresponding author'
+
 
 
 date: "2024-04-04T00:00:00Z"
