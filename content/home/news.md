@@ -1,7 +1,7 @@
 ---
 
 title: News
-weight: 25
+weight: 20
 design:
    columns: '1'
 ---
