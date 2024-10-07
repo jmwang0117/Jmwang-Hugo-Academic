@@ -39,7 +39,7 @@ featured: false
 
 links:
 
-#url_project: 'https://jmwang0117.github.io/OccRWKV/'
+url_project: 'https://jmwang0117.github.io/HE-Drive/'
 #url_pdf: 'https://arxiv.org/abs/2403.11607'
 #url_code: 'https://github.com/jmwang0117/OccRWKV'
 #url_video: 'https://www.youtube.com/watch?v=8-8XW6ufnZo'
