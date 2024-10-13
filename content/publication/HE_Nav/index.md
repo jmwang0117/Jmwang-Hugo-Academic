@@ -40,7 +40,7 @@ links:
 #- name: arXiv
 #  url: https://arxiv.org/abs/1609.06118
 url_project: 'https://jmwang0117.github.io/HE-Nav/'
-url_pdf: 'https://jmwang0117.github.io/HE_Nav.pdf'
+url_pdf: 'https://jmwang0117.github.io/HE-Nav.pdf'
 url_code: 'https://github.com/jmwang0117/HE-Nav'
 #url_video: 'https://www.youtube.com/watch?v=8-8XW6ufnZo'
 
