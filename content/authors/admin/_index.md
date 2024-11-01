@@ -45,7 +45,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-    label: jmwang.hku.cs@gmail.com    
+    label: u3009632@connect.hku.hk
   - icon: pinterest
     icon_pack: fab
     link: https://blog.csdn.net/smallEngineer?spm=1000.2115.3001.5343    
@@ -54,15 +54,16 @@ social:
     link: https://scholar.google.com.hk/citations?user=yq72b6IAAAAJ&hl=zh-CN    
   - icon: github
     icon_pack: fab
-    link: https://github.com/jmwang0117    
+    link: https://github.com/jmwang0117   
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ComWjm 
 #  - display:
 #      header: ture
 #    link: https://www.linkedin.com/in/junming-wang-3b0973207/
 #    icon_pack: fab
 #    icon: linkedin    
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/ComWjm
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -77,7 +78,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an Embodied AI Researcher at *X Square Robot*. I earned my M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/) under [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and my B.Eng degree with First Class Honors from Lanzhou Jiaotong University, advised by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm).
+I am an Embodied AI Researcher at [X Square Robot](http://www.x2robot.com/). I earned my M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/) under [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and my B.Eng degree with First Class Honors from Lanzhou Jiaotong University, advised by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm).
 
 As an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), I collaborate closely with [Dr. Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en) and [Dr. Xiaoxiao Long](https://www.xxlong.site/). Previously, I interned at [Horizon Robotics](https://en.horizon.cc/) and [CASIA](http://english.ia.cas.cn/).
 
@@ -105,6 +106,3 @@ As an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), I coll
 </ul> -->
 
 
-{{% /callout %}}
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

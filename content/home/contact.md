@@ -18,7 +18,7 @@ content:
   
 
   # Contact details (edit or remove options as required)
-  email: jmwang@cs.hku.hk
+  email: u3009632@connect.hku.hk
   phone: +852 XXXXXXXX
  
   directions: HKU Jockey Club Student Village III, 9 Lung Wah St, Kennedy Town, Hong Kong
