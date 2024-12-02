@@ -23,7 +23,9 @@ abstract: "Air-ground robots (AGRs) are widely used in surveillance and disaster
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang,</b> Dong Huang, Xiuxian Guan, Zekai Sun, Tianxiang Shen, Fangming Liu, Heming Cui* </br> 
          
-         <b style="color:#3F51B5"> Under Review</b> 
+         <b style="color:#3F51B5">IEEE Robotics and Automation Letters (RA-L), 2024</b> 
+         <b style="color:red">  | IF = 4.6 </b>
+
 
 
 
