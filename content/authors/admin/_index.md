@@ -93,15 +93,4 @@ In addition to my primary research, I am an active member of [AnySyn3D](https://
         </ul>
 </ul>
 
-<!-- <ul style="font-size: 14px;font-family:georgia">
-    <li>
-        <strong>First Author Published Venues:</strong>
-        <ul>
-            <li>Robotics: ICRA(1) ✔ | RA-L (1)✔ </li>
-            <li>Computer Vision: ICMR(1) ✔</li>
-            <li>IoT: RICAI(1) ✔</li>
-        </ul>
-    </li>
-</ul> -->
-
 
