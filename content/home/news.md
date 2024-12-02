@@ -11,7 +11,7 @@ design:
           [2024/11/25] 🎉🎉 Thrilled! The startup I work for has secured <span style="font-weight: bold;"> $15M </span> in funding. Go team!
 			  </li>
 		  <li>
-          [2024/11/11] 🎉🎉 I was awarded two research scholarships totaling 10,000 RMB from <a href="https://www.amovlab.com/">AMOV Lab </a>
+          [2024/10/11] 🎉🎉 I was awarded two research scholarships totaling 10,000 RMB from <a href="https://www.amovlab.com/">AMOV Lab </a>
 			  </li>
 		  <li>
           [2024/09/13] 🎉🎉 One paper accepted to RA-L 2024 ! </a>
