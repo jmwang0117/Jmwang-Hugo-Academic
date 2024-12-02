@@ -82,7 +82,7 @@ I am an Embodied AI researcher at [X Square Robot](http://www.x2robot.com/), whe
 
 I hold an M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/), where I conducted research under the supervision of [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming), focusing on **robot perception and motion planning**. Prior to this, I graduated with a B.Eng. degree with **First Class Honors** from Lanzhou Jiaotong University. There, I had the privilege of being mentored by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm) and was honored with the prestigious **Tsung-Dao Lee Scholarship**, an award granted annually to a single outstanding undergraduate.
 
-In addition to my primary research, I am an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), where I collaborate closely with [Prof. Xiaoxiao Long](https://www.xxlong.site/). My professional experience also includes internships at [Horizon Robotics](https://en.horizon.cc/) under the guidance of [Dr. Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en), and at the [Chinese Academy of Sciences Institute of Automation (CASIA)](http://english.ia.cas.cn/).
+In addition to my primary research, I am an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), where I collaborate closely with [Prof. Xiaoxiao Long](https://www.xxlong.site/). My professional experience also includes internships at [Horizon Robotics](https://en.horizon.cc/) under the guidance of [Dr. Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en), and at the [CASIA](http://english.ia.cas.cn/).
 
 {{% callout note %}}
 <ul style="font-size: 18px;font-family:georgia">
