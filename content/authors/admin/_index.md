@@ -78,10 +78,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an Embodied AI Researcher at [X Square Robot](http://www.x2robot.com/). I earned my M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/) under [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming) and my B.Eng degree with First Class Honors from Lanzhou Jiaotong University, advised by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm).
+I am an Embodied AI researcher at [X Square Robot](http://www.x2robot.com/), collaborating with [Hao Wang](https://scholar.google.com/citations?hl=en&user=KqkE1CUAAAAJ) and [Ruyi Gan](https://scholar.google.com/citations?hl=zh-CN&user=y994nEsAAAAJ&view_op=list_works) to advance the development of next-generation embodied intelligence general manipulation models. Our efforts have culminated in the release of the **WALL-A** model, a significant component of the Great Wall (GW) series.
 
-As an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), I collaborate closely with [Dr. Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en) and [Dr. Xiaoxiao Long](https://www.xxlong.site/). Previously, I interned at [Horizon Robotics](https://en.horizon.cc/) and [CASIA](http://english.ia.cas.cn/).
+I hold an M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/), where I conducted research under the supervision of [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming), focusing on **robot perception and motion planning**. Prior to this, I graduated with a B.Eng. degree with First Class Honors from Lanzhou Jiaotong University. There, I had the privilege of being mentored by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm) and was honored with the prestigious **Tsung-Dao Lee Scholarship**, an award granted annually to a single outstanding undergraduate.
 
+In addition to my primary research, I am an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), where I collaborate closely with [Prof. Xiaoxiao Long](https://www.xxlong.site/). My professional experience also includes internships at [Horizon Robotics](https://en.horizon.cc/) under the guidance of [Dr. Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en), and at the [Chinese Academy of Sciences Institute of Automation (CASIA)](http://english.ia.cas.cn/).
 
 {{% callout note %}}
 <ul style="font-size: 18px;font-family:georgia">
