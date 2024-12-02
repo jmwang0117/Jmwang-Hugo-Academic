@@ -8,7 +8,7 @@ design:
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
 		  <li>
-          [2024/11/25] 🎉🎉 Thrilled! The startup I work for has secured <span style="font-weight: bold;"> $15M </span> in funding. Go team!
+          [2024/11/25] 🥳🥳 Thrilled! The startup I work for has secured <span style="font-weight: bold;"> $15M </span> in funding. Go team!
 			  </li>
 		  <li>
           [2024/10/11] 🎉🎉 I was awarded two research scholarships totaling 10,000 RMB from <a href="https://www.amovlab.com/">AMOV Lab </a>
