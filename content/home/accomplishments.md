@@ -25,6 +25,10 @@ design:
       <div class="card-body">
         <h2 class="card-title text-center font-weight-bold">Scholarship</h2>
         <ul>
+        <li>
+            <p class="font-weight-bold">2024&nbsp;&nbsp;AMOV Lab Research Scholarship</p>
+            <p class="red-italic">¥10000 RMB (TOP 1%)</p>
+          </li>
           <li>
             <p class="font-weight-bold">2019 and 2020 and 2021&nbsp;&nbsp;Individual Scholarship</p>
             <p class="red-italic">¥16000 RMB (TOP 1%)</p>
