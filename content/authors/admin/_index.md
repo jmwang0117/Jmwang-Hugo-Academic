@@ -92,8 +92,8 @@ In addition to my primary research, I am an active member of [AnySyn3D](https://
             <li>ICRA(1) ✔ | RA-L (1)✔ | ICMR(1) ✔ | RICAI(1) ✔</li>
         </ul>
     </li>
-    <li style="color: #FF0000;">
-        I'm open to collaborations and exploring new research avenues. If interested, please email me.
+        <li style="color: #FF0000;">
+        <strong>I'm open to collaborations and exploring new research avenues. If interested, please email me.</strong>
     </li>
 </ul>
 
