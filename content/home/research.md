@@ -9,13 +9,13 @@ design:
 ## Learning
 <div class="row">
   <div class="col-md-4">
-    <img src="https://drive.google.com/uc?export=view&id=1MgvkhHOrDr9tr_x5XWEeLvGSi4LuAetU" alt="Perception" style="width:100%; border-radius: 10px;">
+    <img src="/images/learning_gif1.gif" alt="Perception" style="width:100%; border-radius: 10px;">
   </div>
   <div class="col-md-4">
-    <img src="https://drive.google.com/uc?export=view&id=15vz3E-sVFIcA2I8K1bu3On3ibpB9fq55" alt="Manipulation" style="width:100%; border-radius: 10px;">
+    <img src="/images/learning_gif2.gif" alt="Manipulation" style="width:100%; border-radius: 10px;">
   </div>
   <div class="col-md-4">
-    <img src="https://drive.google.com/uc?export=view&id=1wklSEB1626EGxOUxq_hg-sSNg4rpuR6z" alt="Motion Planning" style="width:100%; border-radius: 10px;">
+    <img src="/images/learning_gif3.gif" alt="Motion Planning" style="width:100%; border-radius: 10px;">
   </div>
 </div>
 
