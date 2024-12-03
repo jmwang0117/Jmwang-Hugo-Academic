@@ -37,8 +37,18 @@ design:
     <h3 style="text-align: center; margin-top: 15px;">Manipulation</h3>
   </div>
   <div class="col-md-4">
-    <!-- 空白列 -->
-    <h3 style="text-align: center; margin-top: 330px;">Planning</h3>
+    <iframe 
+      width="100%" 
+      height="315" 
+      src="https://www.youtube.com/embed/O0VKN_paHA4?si=BQMEKcfOph_grooG&autoplay=1&loop=1&playlist=O0VKN_paHA4&mute=1" 
+      title="YouTube video player" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      referrerpolicy="strict-origin-when-cross-origin" 
+      allowfullscreen
+      style="border-radius: 10px;">
+    </iframe>
+    <h3 style="text-align: center; margin-top: 15px;">Planning</h3>
   </div>
 </div>
 
