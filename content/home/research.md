@@ -1,6 +1,6 @@
 ---
 title: Research
-weight: 30
+weight: 22
 design:
   columns: '1'
 ---
@@ -16,7 +16,7 @@ My research focuses on developing general-purpose Embodied AI systems, encompass
     <img src="/images/learning_gif2.gif" alt="Manipulation" style="width:100%; border-radius: 10px;">
   </div>
   <div class="col-md-4">
-    <img src="/images/learning_gif3.gif" alt="Motion Planner" style="width:100%; border-radius: 10px;">
+    <img src="/images/learning_gif3.gif" alt="Motion Planning" style="width:100%; border-radius: 10px;">
   </div>
 </div>
 
