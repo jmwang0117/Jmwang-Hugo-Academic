@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research Interests
 weight: 22
 design:
   columns: '1'
@@ -20,6 +20,7 @@ design:
       allowfullscreen
       style="border-radius: 10px;">
     </iframe>
+    <h3 style="text-align: center; margin-top: 15px;">Perception</h3>
   </div>
   <div class="col-md-4">
     <iframe 
@@ -33,9 +34,11 @@ design:
       allowfullscreen
       style="border-radius: 10px;">
     </iframe>
+    <h3 style="text-align: center; margin-top: 15px;">Manipulation</h3>
   </div>
   <div class="col-md-4">
     <!-- 空白列 -->
+    <h3 style="text-align: center; margin-top: 330px;">Planning</h3>
   </div>
 </div>
 
