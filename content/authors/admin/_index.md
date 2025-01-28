@@ -89,7 +89,7 @@ In addition to my primary research, I am an active member of [AnySyn3D](https://
     <li>
         <strong>First Author Published Venues:</strong>
         <ul>
-            <li> RA-L (2) ✔ | ICRA(1) ✔ | ICMR(1) ✔ | RICAI(1) ✔</li>
+            <li> RA-L (2) ✔ | ICRA(2) ✔ | ICMR(1) ✔ | RICAI(1) ✔</li>
         </ul>
 </ul>
 
