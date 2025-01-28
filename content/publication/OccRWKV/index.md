@@ -27,8 +27,8 @@ Experiments demonstrate that OccRWKV outperforms the state-of-the-art methods on
 
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang,</b> Wei Yin, Xiaoxiao Long*, Xingyu Zhang, Zebin Xing, Xiaoyang Guo, Qian Zhang </br> 
-         
-         <b style="color:#3F51B5"> Under Review</b> 
+         <b style="color:#3F51B5">  IEEE International Conference on Robotics and Automation (ICRA), 2025</b> 
+         <b style="color:red">  | Oral Presentation | CCF-B</b>
 
 
 
