@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MPhil in Computer Science and Technology
+    - course: MPhil in Computer Science
       institution: The University of Hong Kong(HKU)
       year: 2022.09-2024.09
     - course: BEng in Computer Science and Technology
@@ -78,7 +78,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an Embodied AI researcher at [X Square Robot](http://www.x2robot.com/), where I work with [Hao Wang](https://scholar.google.com/citations?hl=en&user=KqkE1CUAAAAJ) and [Ruyi Gan](https://scholar.google.com/citations?hl=zh-CN&user=y994nEsAAAAJ&view_op=list_works) on embodied intelligence manipulation models. We recently released the **WALL-A** model as part of the Great Wall (GW) series.
+I am an Embodied AI Researcher at [X Square Robot](http://www.x2robot.com/), focusing on building general vision-language-action (VLA) models.
 
 I hold an M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/), where I conducted research under the supervision of [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming), focusing on **robot perception and motion planning**. Prior to this, I graduated with a B.Eng. degree with **First Class Honors** from Lanzhou Jiaotong University. There, I had the privilege of being mentored by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm) and was honored with the prestigious **Tsung-Dao Lee Scholarship**, an award granted annually to a single outstanding undergraduate.
 
