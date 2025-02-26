@@ -22,7 +22,7 @@ publication_short:
 
 # Summary. An optional shortened abstract.
 summary: Ziying Song, Caiyan Jia, Lin Liu, Hongyu Pan, Yongchang Zhang, <b style="color:#E08040">Junming Wang,</b> Xingyu Zhang, Shaoqing Xu, Lei Yang, Yadan Luo</br> 
-         <b style="color:#3F51B5">  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</b> 
+         <b style="color:#3F51B5">  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 | </b> 
          <b style="color:red">  CCF-A </b>
 
 
