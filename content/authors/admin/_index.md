@@ -84,13 +84,13 @@ I hold an M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/)
 
 In addition to my primary research, I am an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), where I collaborate closely with [Prof. Xiaoxiao Long](https://www.xxlong.site/). My professional experience also includes internships at [Horizon Robotics](https://en.horizon.cc/) under the guidance of [Dr. Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en), and at the [CASIA](http://english.ia.cas.cn/).
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 <ul style="font-size: 18px;font-family:georgia">
     <li>
         <strong>First Author Published Venues:</strong>
         <ul>
             <li> ICRA (2) ✔ | RA-L (2) ✔ | ICMR(1) ✔ | RICAI(1) ✔</li>
         </ul>
-</ul>
+</ul> -->
 
 
