@@ -7,6 +7,9 @@ design:
 ---
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
+		<li>
+          [2025/02/27] 🎉🎉 One paper accepted to CVPR 2025 ! </a>
+			  </li>
 		  <li>
           [2025/01/28] 🎉🎉 One paper accepted to ICRA 2025 ! </a>
 			  </li>
