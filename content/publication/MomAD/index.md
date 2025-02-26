@@ -3,11 +3,11 @@
 title: "Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving"
 
 
-date: "2024-11-01T00:00:00Z"
+date: "2025-02-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-01T00:00:00Z"
+publishDate: "2025-02-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,12 +22,13 @@ publication_short:
 
 # Summary. An optional shortened abstract.
 summary: Ziying Song, Caiyan Jia, Lin Liu, Hongyu Pan, Yongchang Zhang, <b style="color:#E08040">Junming Wang,</b> Xingyu Zhang, Shaoqing Xu, Lei Yang, Yadan Luo</br> 
-         <b style="color:#3F51B5"> Under Review</b> 
+         <b style="color:#3F51B5">  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</b> 
+         <b style="color:red">  CCF-A </b>
 
 
 
 tags:
-  - 2024
+  - 2025
 #- Source Themes
 featured: false
 
