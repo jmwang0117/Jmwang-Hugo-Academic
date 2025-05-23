@@ -8,6 +8,9 @@ design:
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
 		<li>
+          [2025/04/11] 🎤🎤 Delivered a KeyNote Talk on AGR Navigation at <a href="https://www.amovlab.com/">AMOV Lab</a> ! </a>
+			  </li>
+		<li>
           [2025/02/27] 🎉🎉 One paper accepted to CVPR 2025 ! </a>
 			  </li>
 		  <li>
