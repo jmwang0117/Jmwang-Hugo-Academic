@@ -58,12 +58,11 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ComWjm 
- - display:
-     header: ture
-   link: https://www.linkedin.com/in/junming-wang-3b0973207/
-   icon_pack: fab
-   icon: linkedin    
-
+  - display:
+      header: true
+    link: https://www.linkedin.com/in/junming-wang-3b0973207/
+    icon_pack: fab
+    icon: linkedin
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
