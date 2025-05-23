@@ -60,7 +60,7 @@ social:
     link: https://twitter.com/ComWjm 
   - display:
       header: true
-    link: https://www.linkedin.com/in/junming-wang-3b0973207/
+    link: https://www.linkedin.com/in/junming-w-3b0973207/
     icon_pack: fab
     icon: linkedin
 
