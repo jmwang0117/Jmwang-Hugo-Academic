@@ -86,7 +86,7 @@ I am an active member of [AnySyn3D](https://anysyn3d.github.io/index.html), coll
 {{% callout note %}}
 
 
-<ul style="font-size: 16px;font-family: 'Arial', sans-serif;">
+<ul style="font-size: 19px;font-family: 'Consolas', sans-serif;">
     <li>
         <strong style="color: red;">Hiring! Contact For Referrals.</strong>
     </li>
