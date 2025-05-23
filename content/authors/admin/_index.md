@@ -78,7 +78,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an Embodied AI Researcher at [X Square Robot](http://www.x2robot.com/), focusing on building general vision-language-action (VLA) models.
+I am a research engineer at [X Square Robot](https://www.x2robot.com/About.html), focusing on building general vision-language-action (VLA) models.
 
 I hold an M.Phil. degree from the [University of Hong Kong](https://www.hku.hk/), where I conducted research under the supervision of [Prof. Heming Cui](https://www.cs.hku.hk/index.php/people/academic-staff/heming), focusing on **robot perception and motion planning**. Prior to this, I graduated with a B.Eng. degree with **First Class Honors** from Lanzhou Jiaotong University. There, I had the privilege of being mentored by [Prof. Jiuyuan Huo](https://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm) and was honored with the prestigious **Tsung-Dao Lee Scholarship**, an award granted annually to a single outstanding undergraduate.
 
@@ -89,10 +89,11 @@ In addition to my primary research, I am an active member of [AnySyn3D](https://
 
 <ul style="font-size: 18px;font-family:georgia">
     <li>
-        <strong>Published Venues:</strong>
-        <ul>
-            <li> CVPR (1) ✔ | ICRA (2) ✔ | RA-L (2) ✔ | ICMR(1) ✔ | RICAI(1) ✔ </li>
-        </ul>
+        <strong style="color: red;">We are actively hiring! Welcome to reach out for referrals and opportunities.</strong>
+    </li>
+    <li>
+        <strong>Open to collaborations and discussions on new projects.</strong>
+    </li>
 </ul>
 
 
