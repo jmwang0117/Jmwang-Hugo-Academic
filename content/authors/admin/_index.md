@@ -87,12 +87,12 @@ In addition to my primary research, I am an active member of [AnySyn3D](https://
 {{% callout note %}}
 
 
-<ul style="font-size: 18px;font-family:georgia">
+<ul style="font-size: 16px;font-family: 'Arial', sans-serif;">
     <li>
-        <strong style="color: red;">We are actively hiring! Welcome to reach out for referrals and opportunities.</strong>
+        <strong style="color: red;">Hiring! Contact For Referrals.</strong>
     </li>
     <li>
-        <strong>Open to collaborations and discussions on new projects.</strong>
+        <strong>Open To Collaborations & New Projects.</strong>
     </li>
 </ul>
 
