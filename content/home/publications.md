@@ -16,12 +16,14 @@ subtitle: ''
 content:
   # Page type to display. E.g. project.
   page_type: publication
-  count: 6
+  count: 7
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
   filter_button:
     - name: All Papers
       tag: '*'
+    - name: 2025
+      tag: 2025
     - name: 2024
       tag: 2024
     - name: 2023
