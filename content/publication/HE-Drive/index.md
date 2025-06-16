@@ -27,8 +27,8 @@ Experiments show that HE-Drive not only achieves state-of-the-art performance (i
 
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang*,</b> Xingyu Zhang*, Zebin Xing, Songen Gu, Xiaoyang Guo, Yang Hu, Ziying Song, Qian Zhang, Xiaoxiao Long, Wei Yin* </br> 
- <b style="color:#3F51B5">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</b> 
-         <b style="color:red">  | Oral Presentation </b>
+<b style="color:#3F51B5">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</b> 
+<b style="color:red">  | Oral Presentation </b>
 
 
 
