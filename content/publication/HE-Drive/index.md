@@ -3,7 +3,7 @@
 title: "ComDrive: Comfort-Oriented End-to-End Autonomous Driving"
 
 
-date: "2024-10-25T00:00:00Z"
+date: "2025-6-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ To solve the above problems, Our HE-Drive first extracts key 3D spatial represen
 Experiments show that HE-Drive not only achieves state-of-the-art performance (i.e., reduces the average collision rate by 71% than VAD) and efficiency (i.e., 1.9x faster than SparseDrive) on the challenging nuScenes and OpenScene datasets but also provides the most comfortable driving experience on real-world data."
 
 # Summary. An optional shortened abstract.
-summary: <b style="color:#E08040">Junming Wang,</b> Xingyu Zhang, Zebin Xing, Songen Gu, Xiaoyang Guo, Yang Hu, Ziying Song, Qian Zhang, Xiaoxiao Long, Wei Yin* </br> 
+summary: <b style="color:#E08040">Junming Wang*,</b> Xingyu Zhang*, Zebin Xing, Songen Gu, Xiaoyang Guo, Yang Hu, Ziying Song, Qian Zhang, Xiaoxiao Long, Wei Yin* </br> 
  <b style="color:#3F51B5">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</b> 
          <b style="color:red">  | Oral Presentation </b>
 
