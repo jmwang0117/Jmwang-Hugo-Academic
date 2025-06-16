@@ -16,8 +16,8 @@ publishDate: "2025-06-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: 
+publication: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+publication_short: "IROS"
 
 abstract: "In this paper, we propose HE-Drive: the first human-like-centric end-to-end autonomous driving system to generate trajectories that are both temporally consistent and comfortable. Recent studies have shown that imitation learning-based planners and learning-based trajectory scorers can effectively generate and select accuracy trajectories that closely mimic expert demonstrations. However, such trajectory planners and scorers face the dilemma of generating temporally inconsistent and uncomfortable trajectories.
 
@@ -26,9 +26,9 @@ To solve the above problems, Our HE-Drive first extracts key 3D spatial represen
 Experiments show that HE-Drive not only achieves state-of-the-art performance (i.e., reduces the average collision rate by 71% than VAD) and efficiency (i.e., 1.9x faster than SparseDrive) on the challenging nuScenes and OpenScene datasets but also provides the most comfortable driving experience on real-world data."
 
 # Summary. An optional shortened abstract.
-summary: <b style="color:#E08040">Junming Wang*,</b> Xingyu Zhang*, Zebin Xing, Songen Gu, Xiaoyang Guo, Yang Hu, Ziying Song, Qian Zhang, Xiaoxiao Long, Wei Yin* </br> 
-<b style="color:#3F51B5">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</b> 
-<b style="color:red">  | Oral Presentation </b>
+summary: "<b style=\"color:#E08040\">Junming Wang*,</b> Xingyu Zhang*, Zebin Xing, Songen Gu, Xiaoyang Guo, Yang Hu, Ziying Song, Qian Zhang, Xiaoxiao Long, Wei Yin* </br> 
+<b style=\"color:#3F51B5\">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</b> 
+<b style=\"color:red\">  | Oral Presentation </b>"
 
 
 
