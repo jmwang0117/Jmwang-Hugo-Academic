@@ -7,6 +7,9 @@ design:
 ---
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
+        <li>
+          [2025/09/08] 👉👉 Our team has open-sourced <a href="https://x2robot.com/en/research/68bc2cde8497d7f238dde690">WALL-OSS</a> !</a>
+			  </li>
 		  <li>
           [2025/06/16] 🎉🎉 One paper accepted to IROS 2025 ! </a>
 			  </li>
