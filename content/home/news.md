@@ -7,8 +7,14 @@ design:
 ---
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
+		  <li>
+          [2026/04/14] 👉👉 Our team released the <a href="https://arxiv.org/abs/2604.13001">XRZero-G0</a> !</a>
+			  </li>
+		  <li>
+          [2025/12/18] 🎉🎉 One paper accepted to AAAI 2026 !</a>
+			  </li>
         <li>
-          [2025/09/08] 👉👉 Our team has open-sourced <a href="https://x2robot.com/en/research/68bc2cde8497d7f238dde690">WALL-OSS</a> !</a>
+          [2025/09/08] 👉👉 Our team has open-sourced <a href="https://arxiv.org/abs/2509.11766">WALL-OSS</a> !</a>
 			  </li>
 		  <li>
           [2025/06/16] 🎉🎉 One paper accepted to IROS 2025 ! </a>
