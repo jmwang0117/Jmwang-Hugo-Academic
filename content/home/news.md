@@ -7,6 +7,12 @@ design:
 ---
 <div style="overflow-y: auto; max-height:300px; ">
 		  <ul>
+         <li>
+          [2026/05/29] 👉👉 Our team released the <a href="https://x2robot.com/pages/wm">Wall-WM</a> !</a>
+			  </li>
+         <li>
+          [2026/05/28] 👉👉 Our team released the <a href="https://x2robot.com/oss">Wall-OSS-0.5</a> !</a>
+			  </li>
 		  <li>
           [2026/04/14] 👉👉 Our team released the <a href="https://arxiv.org/abs/2604.13001">XRZero-G0</a> !</a>
 			  </li>
