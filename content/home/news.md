@@ -5,8 +5,11 @@ weight: 20
 design:
    columns: '1'
 ---
-<div style="overflow-y: auto; max-height:300px; ">
+<div style="overflow-y: auto; max-height:300px; "> 
 		  <ul>
+          <li>
+          [2026/05/30] 🎉🎉 <a href="https://huggingface.co/datasets/x-square-robot/XRZero-G0-3K">XRZero-G0-3K</a> is open-sourced on Hugging-Face</a>
+			  </li>
          <li>
           [2026/05/29] 👉👉 Our team released the <a href="https://x2robot.com/pages/wm">Wall-WM</a> !</a>
 			  </li>
@@ -14,7 +17,7 @@ design:
           [2026/05/28] 👉👉 Our team released the <a href="https://x2robot.com/oss">Wall-OSS-0.5</a> !</a>
 			  </li>
 		  <li>
-          [2026/04/14] 👉👉 Our team released the <a href="https://arxiv.org/abs/2604.13001">XRZero-G0</a> !</a>
+          [2026/04/14] 👉👉 Our team released the <a href="https://x2robot.com/x2go">XRZero-G0</a> !</a>
 			  </li>
 		  <li>
           [2025/12/18] 🎉🎉 One paper accepted to AAAI 2026 !</a>
