@@ -27,7 +27,7 @@ abstract: "Aerial-ground robots (AGRs) have unique dual-mode capabilities (i.e.,
 summary: <b style="color:#E08040">Junming Wang,</b> Zekai Sun, Xiuxian Guan, Tianxiang Shen, Dong Huang, Zongyuan Zhang, Tianyang Duan, Fangming Liu, Heming Cui*  </br> 
          
          <b style="color:#3F51B5">IEEE Robotics and Automation Letters (RA-L), 2024</b> 
-         <b style="color:red">  | IF = 4.6 </b>
+         <b style="color:red">  | IF = 5.3 </b>
 
 
 

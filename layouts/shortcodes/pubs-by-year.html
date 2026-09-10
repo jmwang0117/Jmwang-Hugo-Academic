@@ -5,7 +5,7 @@
   <h3 class="pub-year-title">{{ .Key }}</h3>
   <ul class="pub-year-list">
     {{ range .Pages }}
-    <li class="pub-year-item">
+    <li class="pub-year-item{{ if .Params.featured }} is-highlight{{ end }}">
       <a class="pub-year-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ with .Params.summary }}
       <div class="pub-year-meta">{{ . | markdownify }}</div>

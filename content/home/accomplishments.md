@@ -62,10 +62,6 @@ design:
           <p><i style="color: red;">Meritorious Winners - America</i></p>
         </li>
         <li>
-          <p class="font-weight-bold">&nbsp;China Computer Federation (CCF) Computer Application Technology Award</p>
-          <p><i style="color: red;">National Second Prize - China</i></p>
-        </li>
-        <li>
           <p class="font-weight-bold">&nbsp;IPv6 Technology Application Innovation Competition</p>
           <p><i style="color: red;">National Second Prize - China</i></p>
         </li>

@@ -26,7 +26,6 @@ design:
     <li>[2024/05/20] 🎉🎉 One paper accepted to ApPLIED Workshop @PODC'24!</li>
     <li>[2024/04/07] 🎉🎉 One paper accepted to ICMR 2024!</li>
     <li>[2024/01/30] 🎉🎉 One paper accepted to ICRA 2024!</li>
-    <li>[2023/07/15] Our project won the CCF Computer Application Product Innovation Award.</li>
     <li>[2023/05/28] 🎉🎉 One paper accepted to AIML Workshop @COMPSAC'23!</li>
     <li>[2023/04/06] Our project won the <b>National Second Prize</b> in <a href="http://www.news.cn/info/rdzt/ipv6ds/index.html">The First IPv6 Technology Application Innovation Competition</a>.</li>
     <li>[2022/09/30] 🐦 I had a wonderful time at <a href="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.</li>

@@ -23,8 +23,7 @@ abstract: "Discovering novel classes in open-world settings is crucial for real-
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang*,</b> Yi Shi  </br> 
          
-         <b style="color:#3F51B5"> ACM International Conference on Multimedia Retrieval (ICMR), 2024</b> 
-         <b style="color:red"> | CCF-B</b>
+         <b style="color:#3F51B5"> ACM International Conference on Multimedia Retrieval (ICMR), 2024</b>
       
 
 

@@ -3,11 +3,11 @@
 title: "OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity"
 
 
-date: "2024-09-10T00:00:00Z"
+date: "2025-05-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-10T00:00:00Z"
+publishDate: "2025-05-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,12 +28,12 @@ Experiments demonstrate that OccRWKV outperforms the state-of-the-art methods on
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang,</b> Wei Yin, Xiaoxiao Long*, Xingyu Zhang, Zebin Xing, Xiaoyang Guo, Qian Zhang </br> 
          <b style="color:#3F51B5">  IEEE International Conference on Robotics and Automation (ICRA), 2025</b> 
-         <b style="color:red">  | Oral Presentation | CCF-B</b>
+         <b style="color:red">  | Oral Presentation</b>
 
 
 
 tags:
-  - 2024
+  - 2025
 #- Source Themes
 featured: false
 
