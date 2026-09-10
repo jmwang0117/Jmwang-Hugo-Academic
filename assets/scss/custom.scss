@@ -1,0 +1,29 @@
+// Wowchemy auto-imports this file. Force highlight card image size.
+.rh-grid {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  gap: 14px !important;
+  width: 100%;
+}
+
+.rh-grid .rh-card {
+  flex: 1 1 0 !important;
+  min-width: 0 !important;
+}
+
+.article-style .rh-grid img,
+.home-section .rh-grid img,
+.universal-wrapper .rh-grid img,
+.rh-grid img {
+  width: 100% !important;
+  height: 220px !important;
+  max-width: 100% !important;
+  max-height: 220px !important;
+  object-fit: contain !important;
+}
+
+@media (max-width: 575px) {
+  .rh-grid {
+    flex-wrap: wrap !important;
+  }
+}

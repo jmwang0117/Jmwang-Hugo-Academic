@@ -7,6 +7,7 @@ design:
 ---
 <div style="overflow-y: auto; max-height:300px; ">
   <ul>
+    <li>[2026/09/09] 🎉🎉 <a href="https://x2robot.com/pages/wm">WALL-WM</a> won <b>Best Paper</b> at <a href="https://trustworthy-world-models.github.io/ECCV2026/">Safe World Models for Trustworthy Embodied AI @ ECCV 2026</a>!</li>
     <li>[2026/05/30] 🎉🎉 <a href="https://huggingface.co/datasets/x-square-robot/XRZero-G0-3K">XRZero-G0-3K</a> is open-sourced on Hugging-Face!</li>
     <li>[2026/05/29] 👉👉 Our team released <a href="https://x2robot.com/pages/wm">Wall-WM</a>!</li>
     <li>[2026/05/28] 👉👉 Our team released <a href="https://x2robot.com/oss">Wall-OSS-0.5</a>!</li>
