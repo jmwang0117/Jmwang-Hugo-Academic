@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junming Wang
+title: Junming (James) Wang
 
 # Is this the primary user of the site?
 superuser: true
