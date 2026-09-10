@@ -14,7 +14,6 @@ design:
     <div class="rh-body">
       <h3>XRZero-G0</h3>
       <p class="rh-venue">Technical Report</p>
-      <p class="rh-desc">Pushing the frontier of dexterous robotic manipulation with interfaces, quality, and mixing ratios for scalable robot-free data.</p>
     </div>
   </a>
 
@@ -25,7 +24,6 @@ design:
     <div class="rh-body">
       <h3>WALL-OSS</h3>
       <p class="rh-venue">Technical Report</p>
-      <p class="rh-desc">An end-to-end embodied foundation model that ignites VLMs toward the embodied space with unified cross-level chain-of-thought.</p>
     </div>
   </a>
 
@@ -36,7 +34,6 @@ design:
     <div class="rh-body">
       <h3>WALL-WM</h3>
       <p class="rh-venue">ECCV 2026 Workshop — Best Paper</p>
-      <p class="rh-desc">Carving world action modeling at the event joints for general-purpose, event-grounded Vision-Language-Action pretraining.</p>
     </div>
   </a>
 
