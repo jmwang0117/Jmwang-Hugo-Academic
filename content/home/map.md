@@ -1,8 +1,9 @@
 ---
-
 weight: 325
 design:
-   columns: '1'
+  columns: '1'
+  background:
+    color: '#e8eef6'
 ---
 
 <div style="display:flex; justify-content:center; padding: 10px 0;">
