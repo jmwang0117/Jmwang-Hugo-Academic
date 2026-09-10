@@ -39,7 +39,14 @@
   }
 }
 
-#experience pre,
+#about .portrait,
+#about .avatar,
+#profile .portrait,
+.wg-about img.portrait,
+.wg-about .portrait {
+  object-fit: contain !important;
+  object-position: center 28% !important;
+}
 #experience .card-text,
 #experience .experience .card,
 #experience .card-body {
