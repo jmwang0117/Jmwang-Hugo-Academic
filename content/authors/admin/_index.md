@@ -6,7 +6,7 @@ title: Junming Wang
 superuser: true
 
 # Role/position/tagline
-role: Research Engineer
+role: Technical Lead, XRZero
 
 # Organizations/Affiliations to show in About widget
 organizations:
