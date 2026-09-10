@@ -25,6 +25,10 @@ authors: [Junming Wang]
 tags: []
 featured: false
 
+image:
+  caption: 'Image credit: [**ICRA 2025**](https://2025.ieee-icra.org/)'
+  focal_point: Center
+
 links:
 url_project: 'https://jmwang0117.github.io/OccRWKV/'
 url_code: 'https://github.com/jmwang0117/OccRWKV'

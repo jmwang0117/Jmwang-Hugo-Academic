@@ -25,6 +25,10 @@ authors: [Junming Wang]
 tags: []
 featured: false
 
+image:
+  caption: 'Image credit: [**IROS 2025**](https://www.iros25.org/)'
+  focal_point: Left
+
 links:
 url_project: 'https://jmwang0117.github.io/HE-Drive/'
 url_code: ''
