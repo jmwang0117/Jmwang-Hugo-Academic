@@ -1,12 +1,6 @@
 ---
-widget: markdown
-headless: true
-active: true
-weight: 22
-
 title: Research Highlights
-subtitle: ''
-
+weight: 22
 design:
   columns: '1'
 ---
