@@ -27,12 +27,38 @@
   max-height: none !important;
 }
 #projects .card-simple,
-#projects .card { height: 100%; margin-bottom: 1.25rem; }
+#projects .card {
+  height: 100%;
+  margin-bottom: 1.25rem;
+  display: flex;
+  flex-direction: column;
+}
 #projects .card-image img,
 #projects .card-simple img {
   width: 100%;
   height: 180px;
   object-fit: cover;
+}
+#projects .card-simple h3,
+#projects .card-simple .card-title,
+#projects .card-simple .article-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.7em;
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+#projects .card-simple .article-style,
+#projects .card-simple .card-text,
+#projects .card-simple p {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.6em;
+  margin-bottom: 0;
 }
 .pub-year-title {
   font-size: 1.65rem;

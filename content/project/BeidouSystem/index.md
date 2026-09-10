@@ -1,8 +1,6 @@
 ---
-title: 📊 High-precision geological deformation monitoring system based on Beidou satellite
-summary: <b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> 
- <b style="color:#E08040">Junming Wang,</b> Hamzah Murad Mohammed Al-Neshmi, Dan Yang, Zhilu Zhao, Jintao Wei  </br>
- **(<b style="color:#3F51B5">National Level-</b> ¥ 10000 RMB)**</br>
+title: Beidou Deformation Monitoring
+summary: "National Innovation Program"
 tags:
 - Edge Computing
 date: "2016-04-27T00:00:00Z"

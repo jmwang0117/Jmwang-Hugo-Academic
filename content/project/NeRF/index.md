@@ -1,8 +1,6 @@
 ---
-title: ⏳ NeurNCD - Novel Class Discovery via Implicit Neural Representation
-summary: <b style="color:#008080">CASIA internship program</b></br> 
- <b style="color:#E08040">Junming Wang</b> </br>
- 
+title: NeurNCD Novel Class Discovery
+summary: "CASIA Internship"
 
 tags:
 - Computer Vision

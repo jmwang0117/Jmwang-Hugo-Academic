@@ -1,8 +1,6 @@
 ---
-title: 🤖 "Crawler" landslide monitoring inspection robot based on laser SLAM
-summary: <b style="color:#008080">College Students' Innovative Entrepreneurial Training Plan Program</b></br> 
- Junbo Guo, <b style="color:#E08040">Junming Wang,</b> Lin Mu, Meng Liu, Zicheng Wang  </br>
- **(<b style="color:#3F51B5">Provincial Level-</b> ¥ 4000 RMB)**</br>
+title: Crawler Landslide Inspection Robot
+summary: "Provincial Innovation Program"
 tags:
 - Robotics
 date: "2016-04-27T00:00:00Z"

@@ -1,8 +1,6 @@
 ---
-title: ⏳ Design of Obstacle Avoidance Robot Based on Monocular Depth Estimation
-summary: <b style="color:#008080">Undergraduate Final Year Project</b></br> 
- <b style="color:#E08040">Junming Wang,</b> Supervisor - *Prof.Song Wang*  </br>
- 
+title: Monocular Depth Obstacle Avoidance
+summary: "Undergraduate FYP · Prof. Song Wang"
 
 tags:
 - Computer Vision
