@@ -20,6 +20,20 @@
 @media (max-width: 575px) {
   .rh-grid { flex-wrap: wrap !important; }
 }
+#experience pre,
+#experience .card-text,
+#experience .card-body {
+  overflow: visible !important;
+  max-height: none !important;
+}
+#projects .card-simple,
+#projects .card { height: 100%; margin-bottom: 1.25rem; }
+#projects .card-image img,
+#projects .card-simple img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
 .pub-year-title {
   font-size: 1.65rem;
   font-weight: 800;

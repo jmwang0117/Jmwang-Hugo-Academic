@@ -29,9 +29,9 @@ experience:
     location: ShenZhen, China
     date_start: '2024-09-01'
     date_end: ''
-    description: |2-
-              * Technical Lead, XRZero (Aug 2025 – Present): lead the XRZero team on a one-stop embodied data platform and the QUANXTA Zero series
-              * Research Engineer (Sep 2024 – Jul 2025): develop VLA models for embodied AI; core contributor to WALL-OSS
+    description: |
+      - Technical Lead, XRZero (Aug 2025 – Present): lead the XRZero team on a one-stop embodied data platform and the QUANXTA Zero series
+      - Research Engineer (Sep 2024 – Jul 2025): develop VLA models for embodied AI; core contributor to WALL-OSS
 
   - title: Research Intern
     company:  Horizon Robotics
@@ -40,11 +40,10 @@ experience:
     location: ShenZhen, China
     date_start: '2024-04-28'
     date_end: '2024-09-30'
-    description: |2-
-              Responsibilities include:
-
-              * Diffusion-based End-to-End Path Planner
-              * GPT-4o-Guided Human-like Trajectory Scorer
+    description: |
+      Responsibilities include:
+      - Diffusion-based End-to-End Path Planner
+      - GPT-4o-Guided Human-like Trajectory Scorer
 
   - title: Teaching Assistant
     company: The University of Hong Kong
@@ -53,11 +52,10 @@ experience:
     location: Hong Kong SAR
     date_start: '2022-09-01'
     date_end: '2024-09-01'
-    description: |2-
-              Responsibilities include:
-
-              * FITE7411B - RegTech in finance, with Prof.Douglas Arner
-              * COMP7503 - Multimedia technologies, with Dr. Bill Luo
+    description: |
+      Responsibilities include:
+      - FITE7411B - RegTech in finance, with Prof.Douglas Arner
+      - COMP7503 - Multimedia technologies, with Dr. Bill Luo
   - title: Research Intern
     company: Institute of Automation，Chinese Academy of Sciences
     company_url: 'http://english.ia.cas.cn/'
@@ -65,9 +63,9 @@ experience:
     location: Beijing, China
     date_start: '2022-06-01'
     date_end: '2022-09-30'
-    description: |2-
-              * Implementing a novel class discovery framework Based on NeRF;
-              * Responsible for paper writing.
+    description: |
+      - Implementing a novel class discovery framework Based on NeRF
+      - Responsible for paper writing
     
   - title: Summer Student - *Oxford Machine Learning Summer School*
     company: AI for Global Goals & The University of Oxford
@@ -77,9 +75,9 @@ experience:
     certificate_url: https://www.coursera.org
     date_start: '2022-06-27'
     date_end: '2022-08-14'
-    description: |2-
-              * Machine Learning Fundamentals;
-              * Machine Learning and Finance Track.
+    description: |
+      - Machine Learning Fundamentals
+      - Machine Learning and Finance Track
 
   - title: Research Assistant
     company: Professor Huo Jiuyuan's Laboratory
@@ -88,12 +86,11 @@ experience:
     location: Lanzhou, China
     date_start: '2019-09-01'
     date_end: '2021-06-01'
-    description: |2-
-              Responsibilities include:
-
-              * Completed 2 innovation training projects for college students;
-              * Won 8 national awards in competitions;
-              * Published 3 academic papers and secured 2 patents.
+    description: |
+      Responsibilities include:
+      - Completed 2 innovation training projects for college students
+      - Won 8 national awards in competitions
+      - Published 3 academic papers and secured 2 patents
     
   
   
