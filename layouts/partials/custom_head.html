@@ -14,21 +14,29 @@
   .rh-grid { flex-wrap: wrap !important; }
 }
 .pub-year-title {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
   font-size: 1.65rem;
   font-weight: 800;
   margin: 0 0 0.85rem;
   padding-bottom: 0.35rem;
   border-bottom: 2px solid rgba(37, 99, 235, 0.35);
 }
+.pub-year-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.85rem;
+  height: 1.85rem;
+  border-radius: 8px;
+  color: #fff;
+  background: linear-gradient(160deg, #4f8cff 0%, #2563eb 100%);
+  box-shadow: 0 4px 10px rgba(37, 99, 235, 0.28);
+  flex-shrink: 0;
+}
 .pub-year-list { list-style: none; padding: 0; margin: 0; }
 .pub-year-item { padding: 0.85rem 0 1rem; border-bottom: 1px solid rgba(120,150,180,.18); }
-.pub-year-item.is-highlight {
-  margin: 0.35rem -0.85rem 0.55rem;
-  padding: 0.95rem 0.85rem 1.05rem;
-  border: 1px solid rgba(37, 99, 235, 0.22);
-  border-radius: 10px;
-  background: rgba(37, 99, 235, 0.06);
-}
 .pub-year-name { display: block; font-size: 1.12rem; font-weight: 700; line-height: 1.4; margin-bottom: 0.25rem; color: inherit; }
 .pub-year-meta { font-size: 0.95rem; line-height: 1.55; }
 .pub-year-links { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.45rem; }

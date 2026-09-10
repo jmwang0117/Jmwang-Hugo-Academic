@@ -3,7 +3,7 @@
 title: "XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios"
 
 
-date: "2026-04-16T00:00:00Z"
+date: "2026-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

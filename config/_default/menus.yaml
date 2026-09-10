@@ -13,7 +13,7 @@ main:
   - name: Research
     url: '#preprints'
     weight: 11
-  - name: Publications
+  - name: Selected Publications
     url: '#publications'
     weight: 13
   - name: Experience

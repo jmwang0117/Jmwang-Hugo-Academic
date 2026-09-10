@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Selected Publications
 weight: 26
 design:
   columns: '1'

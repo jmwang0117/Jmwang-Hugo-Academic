@@ -2,11 +2,11 @@
 title: "Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion"
 
 
-date: "2021-03-01T00:00:00Z"
+date: "2023-01-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-01T00:00:00Z"
+publishDate: "2023-01-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,12 +23,12 @@ abstract: "Aiming at the problem that GNSS-RTK technology cannot effectively mon
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang,</b> Yi Shi</br> 
          
-         <b style="color:#3F51B5"> arXiv, 2022</b>
+         <b style="color:#3F51B5"> arXiv, 2023</b>
 
 
 
 tags:
-  - 2021
+  - 2023
 #- Source Themes
 featured: false
 

@@ -23,10 +23,10 @@ design:
     <li>[2024/09/13] 🎉🎉 One paper accepted to IEEE Robotics and Automation Letters (RA-L)!</li>
     <li>[2024/08/29] 👨‍🎓👨‍🎓 I have successfully defended my MPhil thesis!</li>
     <li>[2024/06/17] 🎉🎉 One paper accepted to ICCC 2024!</li>
-    <li>[2024/05/20] 🎉🎉 One paper accepted to ApPLIED Workshop @PODC'24!</li>
+    <li>[2024/05/20] 🎉🎉 One paper accepted to ApPLIED Workshop @PODC 2024!</li>
     <li>[2024/04/07] 🎉🎉 One paper accepted to ICMR 2024!</li>
     <li>[2024/01/30] 🎉🎉 One paper accepted to ICRA 2024!</li>
-    <li>[2023/05/28] 🎉🎉 One paper accepted to AIML Workshop @COMPSAC'23!</li>
+    <li>[2023/05/28] 🎉🎉 One paper accepted to AIML Workshop @COMPSAC 2023!</li>
     <li>[2023/04/06] Our project won the <b>National Second Prize</b> in <a href="http://www.news.cn/info/rdzt/ipv6ds/index.html">The First IPv6 Technology Application Innovation Competition</a>.</li>
     <li>[2022/09/30] 🐦 I had a wonderful time at <a href="https://www.sensetime.com/en">SenseTime's (Hong Kong)</a> Artificial Intelligence Technology Day.</li>
     <li>[2022/09/01] 👋 Today I started my <span style="font-weight: bold;">Master of Philosophy (MPhil)</span> program at <b>the University of Hong Kong (HKU)</b>!</li>

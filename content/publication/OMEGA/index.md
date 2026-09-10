@@ -2,11 +2,11 @@
 title: "OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model"
 
 
-date: "2024-08-21T00:00:00Z"
+date: "2025-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-08-21T00:00:00Z"
+publishDate: "2024-12-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,16 +15,20 @@ publishDate: "2024-08-21T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Robotics and Automation*
-publication_short: In *ICRA 2024*
+publication: In *IEEE Robotics and Automation Letters (RA-L)*
+publication_short: In *RA-L 2025*
 
 abstract: "Air-ground robots (AGRs) are widely used in surveillance and disaster response due to their exceptional mobility and versatility (i.e., flying and driving). Current AGR navigation systems perform well in static occlusion-prone environments (e.g., indoors) by using 3D semantic occupancy networks to predict occlusions for complete local mapping and then computing Euclidean Signed Distance Field (ESDF) for path planning. However, these systems face challenges in dynamic, severe occlusion scenes (e.g., crowds) due to limitations in perception networks' low prediction accuracy and path planners' high computation overhead. In this paper, we propose OMEGA, which contains OccMamba with an Efficient AGR-Planner to address the above-mentioned problems. OccMamba adopts a novel architecture that separates semantic and occupancy prediction into independent branches, incorporating two mamba blocks within these branches. These blocks efficiently extract semantic and geometric features in 3D environments with linear complexity, ensuring that the network can learn long-distance dependencies to improve prediction accuracy. Semantic and geometric features are combined within the Bird's Eye View (BEV) space to minimise computational overhead during feature fusion. The resulting semantic occupancy map is then seamlessly integrated into the local map, providing occlusion awareness of the dynamic environment. Our AGR-Planner utilizes this local map and employs kinodynamic A* search and gradient-based trajectory optimization to guarantee planning is ESDF-free and energy-efficient. Extensive experiments demonstrate that OccMamba outperforms the state-of-the-art 3D semantic occupancy network with 25.0% mIoU. End-to-end navigation experiments in dynamic scenes verify OMEGA's efficiency, achieving a 96% average planning success rate."
 
 # Summary. An optional shortened abstract.
 summary: <b style="color:#E08040">Junming Wang,</b> Xiuxian Guan, Zekai Sun, Tianxiang Shen, Dong Huang, Fangming Liu, Heming Cui* </br> 
          
-         <b style="color:#3F51B5">IEEE Robotics and Automation Letters (RA-L), 2024</b> 
+         <b style="color:#3F51B5">IEEE Robotics and Automation Letters (RA-L), 2025</b> 
          <b style="color:red">  | IF = 5.3 </b>
+
+
+tags:
+  - 2025
 
 
 
