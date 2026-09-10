@@ -1,8 +1,9 @@
-// Wowchemy auto-imports this file. Force highlight card image size.
+// Wowchemy auto-imports this file.
+
 .rh-grid {
   display: flex !important;
   flex-wrap: nowrap !important;
-  gap: 14px !important;
+  gap: 16px !important;
   width: 100%;
 }
 
@@ -16,9 +17,9 @@
 .universal-wrapper .rh-grid img,
 .rh-grid img {
   width: 100% !important;
-  height: 220px !important;
+  height: 280px !important;
   max-width: 100% !important;
-  max-height: 220px !important;
+  max-height: 280px !important;
   object-fit: contain !important;
 }
 
@@ -26,4 +27,71 @@
   .rh-grid {
     flex-wrap: wrap !important;
   }
+}
+
+.pub-year-block {
+  margin: 0 0 1.75rem;
+}
+
+.pub-year-title {
+  font-size: 1.65rem;
+  font-weight: 800;
+  margin: 0 0 0.85rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid rgba(37, 99, 235, 0.35);
+}
+
+.pub-year-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pub-year-item {
+  padding: 0.85rem 0 1rem;
+  border-bottom: 1px solid rgba(120, 150, 180, 0.18);
+}
+
+.pub-year-item:last-child {
+  border-bottom: 0;
+}
+
+.pub-year-name {
+  display: block;
+  font-size: 1.12rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 0.25rem;
+  color: inherit;
+}
+
+.pub-year-meta {
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.pub-year-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.45rem;
+}
+
+.pub-year-links a {
+  font-size: 0.78rem;
+  font-weight: 650;
+  padding: 2px 9px;
+  border-radius: 999px;
+  border: 1px solid rgba(37, 99, 235, 0.28);
+  background: rgba(37, 99, 235, 0.08);
+  text-decoration: none !important;
+}
+
+.dark .pub-year-title {
+  border-bottom-color: rgba(96, 165, 250, 0.4);
+}
+
+.dark .pub-year-links a {
+  border-color: rgba(96, 165, 250, 0.35);
+  background: rgba(96, 165, 250, 0.12);
 }

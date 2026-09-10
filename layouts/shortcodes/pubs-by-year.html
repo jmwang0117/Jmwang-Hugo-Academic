@@ -1,0 +1,25 @@
+{{ $pages := where site.RegularPages "Type" "publication" }}
+{{ $pages = $pages.ByDate.Reverse }}
+{{ range $pages.GroupByDate "2006" }}
+<div class="pub-year-block">
+  <h3 class="pub-year-title">{{ .Key }}</h3>
+  <ul class="pub-year-list">
+    {{ range .Pages }}
+    <li class="pub-year-item">
+      <a class="pub-year-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ with .Params.summary }}
+      <div class="pub-year-meta">{{ . | markdownify }}</div>
+      {{ end }}
+      <div class="pub-year-links">
+        {{ if .Params.url_pdf }}<a href="{{ .Params.url_pdf }}" target="_blank" rel="noopener">PDF</a>{{ end }}
+        {{ if .Params.url_project }}<a href="{{ .Params.url_project }}" target="_blank" rel="noopener">Project</a>{{ end }}
+        {{ if .Params.url_code }}<a href="{{ .Params.url_code }}" target="_blank" rel="noopener">Code</a>{{ end }}
+        {{ if .Params.url_video }}<a href="{{ .Params.url_video }}" target="_blank" rel="noopener">Video</a>{{ end }}
+        {{ if .Params.url_dataset }}<a href="{{ .Params.url_dataset }}" target="_blank" rel="noopener">Dataset</a>{{ end }}
+        {{ if .Params.url_poster }}<a href="{{ .Params.url_poster }}" target="_blank" rel="noopener">Poster</a>{{ end }}
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
