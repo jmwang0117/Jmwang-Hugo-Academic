@@ -39,7 +39,6 @@ design:
     <li>[2020/05/01] A Patent for Utility Model is granted <span style="font-weight: bold;">(CN212084334U)</span>.</li>
     <li>[2020/03/01] One paper was accepted by <span style="font-weight: bold;">RICAI2020</span>.</li>
     <li>[2020/02/20] One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/LZKQ/detail">Scientific &amp; Technical Information of Gansu (Chinese Journal)</a>.</li>
-    <li>[2020/02/01] One paper was accepted by the <a href="https://navi.cnki.net/knavi/journals/DPJY/detail">Microcontrollers &amp; Embedded Systems (Chinese Journal)</a>.</li>
     <li>[2020/02/01] I joined Hengsheng Electronic Technology Co., Ltd. as a <span style="font-weight: bold;">Java intern</span>.</li>
     <li>[2019/01/01] I joined the <span style="font-style: italic;">Intelligent Computing and Big Data Lab (LZJTU)</span> as a <span style="font-weight: bold;">Research Assistant</span>, supervised by Prof. Jiuyuan Huo.</li>
   </ul>
