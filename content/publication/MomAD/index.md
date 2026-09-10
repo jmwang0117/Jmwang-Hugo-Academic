@@ -34,7 +34,7 @@ featured: false
 links:
 
 #url_project: 'https://gusongen.github.io/DOME'
-#url_pdf: 'https://arxiv.org/pdf/2410.10429'
+url_pdf: 'https://arxiv.org/pdf/2503.03125'
 #url_code: 'https://github.com/jmwang0117/OccRWKV'
 #url_video: 'https://www.youtube.com/watch?v=8-8XW6ufnZo'
 
