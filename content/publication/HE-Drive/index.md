@@ -1,6 +1,7 @@
 
 ---
 title: "ComDrive: Comfort-Oriented End-to-End Autonomous Driving"
+first_author: true
 
 
 date: "2025-06-15T00:00:00Z"

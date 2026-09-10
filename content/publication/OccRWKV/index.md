@@ -1,6 +1,7 @@
 
 ---
 title: "OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity"
+first_author: true
 
 
 date: "2025-05-19T00:00:00Z"

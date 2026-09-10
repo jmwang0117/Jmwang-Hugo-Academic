@@ -2,36 +2,19 @@
 {{ $pages = $pages.ByDate.Reverse }}
 {{ range $pages.GroupByDate "2006" }}
 <div class="pub-year-block">
-  <h3 class="pub-year-title">
-    <span class="pub-year-icon" aria-hidden="true">
-      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <rect x="3" y="4.5" width="18" height="16" rx="3"></rect>
-        <path d="M3 9.5h18"></path>
-        <path d="M8 2.5v4"></path>
-        <path d="M16 2.5v4"></path>
-        <circle cx="8" cy="13.5" r="1" fill="currentColor" stroke="none"></circle>
-        <circle cx="12" cy="13.5" r="1" fill="currentColor" stroke="none"></circle>
-        <circle cx="16" cy="13.5" r="1" fill="currentColor" stroke="none"></circle>
-      </svg>
-    </span>
-    {{ .Key }}
-  </h3>
+  <h3 class="pub-year-title">{{ .Key }}</h3>
   <ul class="pub-year-list">
-    {{ range .Pages }}
-    <li class="pub-year-item">
-      <a class="pub-year-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ with .Params.summary }}
-      <div class="pub-year-meta">{{ . | markdownify }}</div>
+    {{ if eq .Key "2025" }}
+      {{ range where .Pages "Params.first_author" "ne" true }}
+        {{ partial "pub-year-item.html" . }}
       {{ end }}
-      <div class="pub-year-links">
-        {{ if .Params.url_pdf }}<a href="{{ .Params.url_pdf }}" target="_blank" rel="noopener">PDF</a>{{ end }}
-        {{ if .Params.url_project }}<a href="{{ .Params.url_project }}" target="_blank" rel="noopener">Project</a>{{ end }}
-        {{ if .Params.url_code }}<a href="{{ .Params.url_code }}" target="_blank" rel="noopener">Code</a>{{ end }}
-        {{ if .Params.url_video }}<a href="{{ .Params.url_video }}" target="_blank" rel="noopener">Video</a>{{ end }}
-        {{ if .Params.url_dataset }}<a href="{{ .Params.url_dataset }}" target="_blank" rel="noopener">Dataset</a>{{ end }}
-        {{ if .Params.url_poster }}<a href="{{ .Params.url_poster }}" target="_blank" rel="noopener">Poster</a>{{ end }}
-      </div>
-    </li>
+      {{ range where .Pages "Params.first_author" true }}
+        {{ partial "pub-year-item.html" . }}
+      {{ end }}
+    {{ else }}
+      {{ range .Pages }}
+        {{ partial "pub-year-item.html" . }}
+      {{ end }}
     {{ end }}
   </ul>
 </div>

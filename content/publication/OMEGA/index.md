@@ -1,5 +1,6 @@
 ---
 title: "OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model"
+first_author: true
 
 
 date: "2025-03-01T00:00:00Z"

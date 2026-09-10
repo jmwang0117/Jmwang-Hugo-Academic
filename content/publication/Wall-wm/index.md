@@ -24,7 +24,7 @@ abstract: "WALL-WM is a World Action Model that shifts video-action learning fro
 summary: >-
   Shalfun Li*†, Victor Yao*, Charles Yang*, Truth Qu*, Regis Cheng*, Ryan Yu*, Howard Lu*, Vincent Chen*, Newton Von*, Yohann Tang, Maeve Zhang, Ellie Ma, Gody Li, Sage Yang, Lorien Shu, J.W. Gao, Ethan Chen, Colin Ye, Rain Sun, Elise Mon, PS Zhang, Neo Li, Lily Li, <b style="color:#E08040">James Wang</b>, Ping Yang, Chris Pan, Lucy Liang, Hang Su, Roy Gan, Hao Wang‡, Qian Wang </br>
   <b style="color:#3F51B5">Technical Report</b> </br>
-  <b style="color:red">Best Paper</b>
+  <b style="color:red">ECCV 2026 Workshop - Best Paper Award</b>
 
 
 

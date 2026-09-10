@@ -36,7 +36,7 @@ design:
 <div style="padding:14px 12px 16px;">
 <div style="font-weight:800;font-size:22px;line-height:1.25;">WALL-WM</div>
 <div style="color:#2563eb;font-size:16px;font-weight:700;margin-top:6px;">Technical Report</div>
-<div style="color:#e11d48;font-size:16px;font-weight:800;margin-top:4px;">Best Paper</div>
+<div style="color:#e11d48;font-size:16px;font-weight:800;margin-top:4px;">ECCV 2026 Workshop - Best Paper Award</div>
 </div>
 </a>
 </div>
