@@ -1,5 +1,5 @@
 ---
-title: Preprints
+title: Research Highlights
 cms_exclude: true
 
 # View.

@@ -11,11 +11,8 @@ main:
     url: '#news'
     weight: 10
   - name: Research
-    url: '#research'
-    weight: 11
-  - name: Preprints
     url: '#preprints'
-    weight: 12    
+    weight: 11
   - name: Publications
     url: '#publications'
     weight: 13

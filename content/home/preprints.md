@@ -1,37 +1,49 @@
 ---
-# An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-
-# This file represents a page section.
+widget: markdown
 headless: true
 active: true
+weight: 22
 
-# Order that this section appears on the page.
-weight: 25
-
-title: Preprints
+title: Research Highlights
 subtitle: ''
 
-content:
-  # Page type to display. E.g. project.
-  page_type: preprint
-
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
 ---
 
-{{% callout note %}}
-More publications are available via  [Google Scholar](https://scholar.google.com.hk/citations?user=yq72b6IAAAAJ&hl=zh-CN).
-{{% /callout %}}
+<div class="rh-grid">
+
+  <a class="rh-card" href="https://arxiv.org/abs/2604.13001">
+    <div class="rh-thumb">
+      <img src="/media/highlights/xrzero.jpg" alt="XRZero-G0">
+    </div>
+    <div class="rh-body">
+      <h3>XRZero-G0</h3>
+      <p class="rh-venue">Technical Report</p>
+      <p class="rh-desc">Pushing the frontier of dexterous robotic manipulation with interfaces, quality, and mixing ratios for scalable robot-free data.</p>
+    </div>
+  </a>
+
+  <a class="rh-card" href="https://arxiv.org/abs/2509.11766">
+    <div class="rh-thumb">
+      <img src="/media/highlights/wall-oss.jpg" alt="WALL-OSS">
+    </div>
+    <div class="rh-body">
+      <h3>WALL-OSS</h3>
+      <p class="rh-venue">Technical Report</p>
+      <p class="rh-desc">An end-to-end embodied foundation model that ignites VLMs toward the embodied space with unified cross-level chain-of-thought.</p>
+    </div>
+  </a>
+
+  <a class="rh-card" href="https://x2robot.com/pages/wm">
+    <div class="rh-thumb">
+      <img src="/media/highlights/wall-wm.jpg" alt="WALL-WM">
+    </div>
+    <div class="rh-body">
+      <h3>WALL-WM</h3>
+      <p class="rh-venue">ECCV 2026 Workshop — Best Paper</p>
+      <p class="rh-desc">Carving world action modeling at the event joints for general-purpose, event-grounded Vision-Language-Action pretraining.</p>
+    </div>
+  </a>
+
+</div>
