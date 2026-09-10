@@ -6,8 +6,7 @@ tags:
 - Computer Vision
 date: "2022-09-07T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3652583.3658073'
 
 
 
