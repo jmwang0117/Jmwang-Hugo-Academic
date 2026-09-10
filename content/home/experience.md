@@ -27,22 +27,11 @@ experience:
     company_url: 'https://x2robot.com/'
     company_logo: org-x
     location: ShenZhen, China
-    date_start: '2025-08-01'
+    date_start: '2024-09-01'
     date_end: ''
     description: |2-
-              * Lead the XRZero team on a one-stop embodied data platform
-              * Launch the QUANXTA Zero series for UMI/EGO data collection
-
-  - title: Research Engineer
-    company: X Square Robot
-    company_url: 'https://x2robot.com/'
-    company_logo: org-x
-    location: ShenZhen, China
-    date_start: '2024-09-01'
-    date_end: '2025-07-31'
-    description: |2-
-              * Develop vision-language-action (VLA) models for embodied AI
-              * Core contributor to WALL-OSS
+              * Technical Lead, XRZero (Aug 2025 – Present): lead the XRZero team on a one-stop embodied data platform and the QUANXTA Zero series
+              * Research Engineer (Sep 2024 – Jul 2025): develop VLA models for embodied AI; core contributor to WALL-OSS
 
   - title: Research Intern
     company:  Horizon Robotics

@@ -23,6 +23,16 @@
   object-fit: contain !important;
 }
 
+.article-style .rh-grid img.rh-img-compact,
+.home-section .rh-grid img.rh-img-compact,
+.rh-grid img.rh-img-compact {
+  width: auto !important;
+  height: 210px !important;
+  max-width: 82% !important;
+  max-height: 210px !important;
+  margin: 0 auto !important;
+}
+
 @media (max-width: 575px) {
   .rh-grid {
     flex-wrap: wrap !important;
